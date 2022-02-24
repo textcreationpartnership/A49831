@@ -1,0 +1,971 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The office and dutie of constables, churchwardens and other the overseers of the poore together with the office and dutie of the surveyours of the high-wayes / collected for the help and benefit of such as are ignorant and unskilfull in the discharge and execution of the said offices.</title>
+            <author>Layer, John, 1585?-1641.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 150 KB of XML-encoded text transcribed from 89 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49831</idno>
+            <idno type="STC">Wing L746</idno>
+            <idno type="STC">ESTC R34961</idno>
+            <idno type="EEBO-CITATION">14916569</idno>
+            <idno type="OCLC">ocm 14916569</idno>
+            <idno type="VID">102902</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49831)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102902)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1573:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The office and dutie of constables, churchwardens and other the overseers of the poore together with the office and dutie of the surveyours of the high-wayes / collected for the help and benefit of such as are ignorant and unskilfull in the discharge and execution of the said offices.</title>
+                  <author>Layer, John, 1585?-1641.</author>
+               </titleStmt>
+               <extent>[4], 172 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Roger Daniel and are to be sold by Francis Eaglesfield ...,</publisher>
+                  <pubPlace>Cambridge :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed: John Layer.</note>
+                  <note>Imperfect: pages stained and torn with loss of print.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Constables --  England.</term>
+               <term>Police, Rural --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Zev Berger</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Zev Berger</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102902:1"/>
+            <p>THE OFFICE <hi>AND D<g ref="char:V">Ʋ</g>TIE</hi> of Conſtables, Church<g ref="char:EOLhyphen"/>wardens, and other the Overſeers of the <hi>Poore:</hi> Together with the Office and Du<g ref="char:EOLhyphen"/>tie of the Surveyours of the High-wayes. <hi>Collected for the help and benefit of ſuch as are ignorant and unskilfull in the diſcharge and execution of the ſaid Offices.</hi>
+            </p>
+            <p>
+               <hi>CAMBRIDGE,</hi> Printed by <hi>Roger Daniel,</hi> and are to be ſold by <hi>Francis Eaglesfield</hi> at the Marigold in <hi>Pauls</hi> Church-yard. 1641.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:102902:2" rendition="simple:additions"/>
+            <pb facs="tcp:102902:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Riendly Reader, the la<g ref="char:EOLhyphen"/>bour I have taken for thy behoof, I may boldly ſay, doth require a favourable acceptance: for matters of as ſmall moment as this have threatned on thee as great kind<g ref="char:EOLhyphen"/>neſſe, and received for their pains friendly entreaty. I have ſtudied to be brief I hope with<g ref="char:EOLhyphen"/>out obſcurity, for ſparing thy time, the chiefeſt treaſure. And did I doubt that theſe my weak endeavours in the equall judge<g ref="char:EOLhyphen"/>ment of ſuch as be indifferently affected, would not be admitted as commodious, rather then re<g ref="char:EOLhyphen"/>jected as ſuperfluous, I had pro<g ref="char:EOLhyphen"/>cured them a veil of greater brightneſſe, which might en<g ref="char:EOLhyphen"/>creaſe the reputation of their per<g ref="char:EOLhyphen"/>fections, if any, and ſhadow
+<pb facs="tcp:102902:3"/>their wants and deformities. It is true, I am not ignorant how dangerous it is to put my ſelf ſo farre forth into the Sea of common opinion, and I cannot but ſee that by reaſon of the ſhelves and rocks of injurious conceits, which are ready to be found on every hand, I am like to paſſe no ſmall adventure; however for once I have ventu<g ref="char:EOLhyphen"/>red to commit my ſelf to thy fa<g ref="char:EOLhyphen"/>vourable cenſure, who am</p>
+            <closer>
+               <signed>Thine, JOHN LAYER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb n="1" facs="tcp:102902:3"/>
+               <head>A brief direction touch<g ref="char:EOLhyphen"/>ing the office and duty of Con<g ref="char:EOLhyphen"/>ſtables, collected for the help of ſuch as are unskilfull and ignorant in the diſ<g ref="char:EOLhyphen"/>charge and executi<g ref="char:EOLhyphen"/>on of the ſaid office.</head>
+               <p>
+                  <seg rend="decorInit">C</seg>Onſtables are infe<g ref="char:EOLhyphen"/>riour officers or<g ref="char:EOLhyphen"/>dained for the con<g ref="char:EOLhyphen"/>ſervation of the peace,
+<note place="margin">Conſtables defined.</note> and are of two ſorts.</p>
+               <p>Conſtables of Hundreds and Franchiſes,
+<note place="margin">Two kinds of Conſta<g ref="char:EOLhyphen"/>bles.</note> called the chief or high Conſtables. Conſtables of Villages and Pariſhes, called the petty Conſtables.</p>
+               <p>The generall office and du<g ref="char:EOLhyphen"/>ty
+<pb n="2" facs="tcp:102902:4"/>of the chief Conſtables conſiſteth in the maintenance of the peace,
+<note place="margin">Chief Conſtables their office.</note> in preſenting to the Juſtices the defects of watches, and defaults of the Kings high-wayes, to collect and pay the moneys charged and raiſed in and upon the Countrey, to diſtribute the precepts and warrants of the Magiſtrates to the petty Con<g ref="char:EOLhyphen"/>ſtables of villages, and to have reſpect to the Arms within their hundred, &amp;c.</p>
+               <p>In ancient time theſe offi<g ref="char:EOLhyphen"/>cers were appointed and ſworn by the Sheriff of the ſhire in his Court called the Sheriff's Turn:
+<note place="margin">Where an<g ref="char:EOLhyphen"/>ciently, and novv, elect<g ref="char:EOLhyphen"/>ed and ſvvorn.</note> But at this day they are uſually elected and ſworn at the generall Seſſions of the peace (of the moſt ſuf<g ref="char:EOLhyphen"/>ficient and diſcreet yeomen) and ſometime from thence referred to the choice and
+<pb n="3" facs="tcp:102902:4"/>ſwearing of the Juſtices of their diviſion.</p>
+               <p>Conſtables of Villages were deviſed for the eaſe and help of the Conſtables of Hun<g ref="char:EOLhyphen"/>dreds,
+<note place="margin">Petty Con<g ref="char:EOLhyphen"/>ſtab. their uſe and of<g ref="char:EOLhyphen"/>fice.</note> and have the ſame power within their pariſh, as the chief Conſtable hath in his hundred.
+<note place="margin">Who they ought to be.</note> They are to be choſen of the abler ſort of Pariſhioners, and the office not to be put upon the mean<g ref="char:EOLhyphen"/>er ſort, if it may be.</p>
+               <p>It is requiſite alſo that they have theſe three properties, honeſty, knowledge, and abi<g ref="char:EOLhyphen"/>lity. Firſt, honeſty, to exe<g ref="char:EOLhyphen"/>cute their office truly and in<g ref="char:EOLhyphen"/>differently without malice or affection. Secondly, know<g ref="char:EOLhyphen"/>ledge, to underſta<g ref="char:cmbAbbrStroke">̄</g>d what they ought to do. Thirdly, abili<g ref="char:EOLhyphen"/>tie as wel in eſtate as in body, that they may intend and exe<g ref="char:EOLhyphen"/>cute their office fully and ſub<g ref="char:EOLhyphen"/>ſtantially,
+<pb n="4" facs="tcp:102902:5"/>ſo as neither through impotency of body or indigency of eſtate he neg<g ref="char:EOLhyphen"/>lect the ſame.</p>
+               <p>The proper place to chuſe and ſwear the petty Conſta<g ref="char:EOLhyphen"/>bles is the Leet;
+<note place="margin">Where ele<g ref="char:EOLhyphen"/>cted and ſvvorn.</note> but in their default, or for inſufficiency of choice there made, the common practice is that the Juſtices of peace in their di<g ref="char:EOLhyphen"/>viſion do cauſe the inhabi<g ref="char:EOLhyphen"/>tants, where ſuch default or inſufficiency of choice is made, to make better choice and to bring them before them to take their oath. But others are of opinion, that the remedy of the choice of mean Conſtables in the Leets ought rather to be reformed at the generall quarter Seſſi<g ref="char:EOLhyphen"/>ons, who are not onely to make new choice, but to pu<g ref="char:EOLhyphen"/>niſh the Steward of ſuch Leet
+<pb n="5" facs="tcp:102902:5"/>for making the inſufficient choice.</p>
+               <p>The form of the oath of a Conſtable.</p>
+               <p>You ſhall ſwear well and truly to ſerve our Sovereigne Lord the King in the office of a Conſtable;
+<note place="margin">Oath.</note> you ſhall ſee and cauſe his Majeſties peace to be well and duly kept and preſerved to the utmoſt of your power; you ſhall ar<g ref="char:EOLhyphen"/>reſt all ſuch perſons, as in your preſence ſhall ride or go armed offenſively, or ſhall commit or make any riot, af<g ref="char:EOLhyphen"/>fray, or other breach of his Majeſties peace; you ſhall do your beſt endeavour upon complaint to you made to apprehend all Felons, Barri<g ref="char:EOLhyphen"/>tours and Rioters, or perſons riotouſly aſſembled, and if a<g ref="char:EOLhyphen"/>ny ſuch offenders ſhall make
+<pb n="6" facs="tcp:102902:6"/>reſiſtance with force, you ſhall levy Huy and cry, and ſhall purſue them untill they be taken: You ſhall do your beſt endeavour that the watch in your town be duly kept, and that Huy and cry be duly purſued according to the ſtatutes: And that the ſtatute made for the puniſh<g ref="char:EOLhyphen"/>ing of rogues, vagabonds &amp; night-walkers, and ſuch other idle and wandring perſons coming within your liber<g ref="char:EOLhyphen"/>ties be duly put in executi<g ref="char:EOLhyphen"/>on, you ſhall have a watch<g ref="char:EOLhyphen"/>full eye to ſuch perſons as ſhall maintein or keep any common houſe or place where any unlawfull games or plaies are or ſhall be uſed, as alſo to ſuch as ſhall fre<g ref="char:EOLhyphen"/>quent or uſe ſuch places, or ſhall exerciſe or uſe any un<g ref="char:EOLhyphen"/>lawfull games or plaies there
+<pb n="7" facs="tcp:102902:6"/>or elſe-where contrary to the ſtatute, and you ſhall have a care for the maintenance of archerie, according to the ſtatute. At your Aſſiſes, Seſ<g ref="char:EOLhyphen"/>ſions or Leet, you ſhall pre<g ref="char:EOLhyphen"/>ſent all and every the offen<g ref="char:EOLhyphen"/>ſes committed or done con<g ref="char:EOLhyphen"/>trary to the ſtatutes made and provided for the reſtraint of the inordinate haunting and tipling in Taverns, Innes, Alehouſes &amp; other Victual<g ref="char:EOLhyphen"/>ling-houſes, and for the re<g ref="char:EOLhyphen"/>preſſing of drunkenneſſe and profane ſwearing; you ſhall true preſentment make of all bloud-ſhedding, affraies, out<g ref="char:EOLhyphen"/>cries, reſcues, and other of<g ref="char:EOLhyphen"/>fenſes committed or done a<g ref="char:EOLhyphen"/>gainſt the Kings peace with<g ref="char:EOLhyphen"/>in your limits; you ſhall well and duly execute all pre<g ref="char:EOLhyphen"/>cepts and warrants to you di<g ref="char:EOLhyphen"/>rected from the Juſtices of
+<pb n="8" facs="tcp:102902:7"/>the peace and others in au<g ref="char:EOLhyphen"/>thority in this County. And you ſhall well and duly ac<g ref="char:EOLhyphen"/>cording to your knowledge, power and ability, do and execute all other things be<g ref="char:EOLhyphen"/>longing to the office of a Conſtable, ſo long as you ſhall continue in the ſaid of<g ref="char:EOLhyphen"/>fice. So help you God, &amp;c.</p>
+               <p>This or the like oath may be adminiſtred to the Con<g ref="char:EOLhyphen"/>ſtable of the Hundred, with this addition,
+<note place="margin">
+                     <hi>St.</hi> 5. <hi>Eliſ. c.</hi> 4.</note> that they keep their ſtatute Seſſions at ſuch times and in ſuch manner as is preſcribed by the ſtatute; and that in all ſuch rates and taxes where they have au<g ref="char:EOLhyphen"/>thority to charge their Hun<g ref="char:EOLhyphen"/>dred, they do it juſtly and in<g ref="char:EOLhyphen"/>differently in each behalf.</p>
+               <p>I have exemplified this oath at large, becauſe therein as well the Conſtables of Hundreds as of Villages may
+<pb n="9" facs="tcp:102902:7"/>briefly ſee &amp; diſcern the chief particulars of their office.</p>
+               <p>The duty as well of the chief Conſtables of hundreds as of the petty Conſtables of villages and pariſhes conſiſt<g ref="char:EOLhyphen"/>eth chiefly in matters con<g ref="char:EOLhyphen"/>cerning the peace,
+<note place="margin">Diviſion of their office.</note> either by their own authority or under the authority of others.</p>
+               <p>The conſervation and maintenance of the peace ſtandeth in theſe three things.
+<note place="margin">Their of<g ref="char:EOLhyphen"/>fice con<g ref="char:EOLhyphen"/>cerning the peace.</note> Firſt, in foreſeeing that no<g ref="char:EOLhyphen"/>thing be done that tendeth either directly, or by means, to the breach of the peace; Secondly, in quieting or paci<g ref="char:EOLhyphen"/>fying thoſe that are occupied in the breach of the peace; Thirdly, in puniſhing ſuch as have already broke the peace</p>
+               <p>The endeavour of all theſe belongeth to the Conſtables, but the firſt and laſt more eſ<g ref="char:EOLhyphen"/>ſpecially
+<pb n="10" facs="tcp:102902:8"/>apperteineth to the Juſtice of the peace.</p>
+               <p>By the breach of the peace is underſtood,
+<note place="margin">What is the breach of the peace.</note> not onely that actuall fighting, affray and battery, but alſo every mur<g ref="char:EOLhyphen"/>der, manſlaughter, rape, rob<g ref="char:EOLhyphen"/>bery, and other felony what<g ref="char:EOLhyphen"/>ſoever; and by ſome opinions every aſſaulting or putting in fear of the Kings people, whether it be by unlawfull wearing of armour, or by aſ<g ref="char:EOLhyphen"/>ſembling of people to do any unlawfull act whatſoever.</p>
+               <p>And for the better pre<g ref="char:EOLhyphen"/>venting that nothing be done againſt the peace, any of theſe officers may take and arreſt all ſuſpected perſons, as well ſtrangers as others, which walk in the night and ſleep in the day, or which do haunt any houſe ſuſpected of bawdry, or ſhall in the night
+<pb n="11" facs="tcp:102902:8"/>uſe other ſuſpicious compa<g ref="char:EOLhyphen"/>ny, or ſhall do or commit a<g ref="char:EOLhyphen"/>ny outrage or other miſde<g ref="char:EOLhyphen"/>meanour, and they may carry them before a Juſtice of the peace to find ſurety of their good behaviour. And if any ſuch officer be not of ſuffici<g ref="char:EOLhyphen"/>ent ſtrength to do it alone, he may require meet aid of his neighbours thereto, and they in ſuch caſe are puniſhable for neglecting to aſſiſt him.
+<note place="margin">Night-vvatches.</note>
+               </p>
+               <p>They ſhall alſo appoint night-watches from the feaſt of Aſcenſion untill Michael<g ref="char:EOLhyphen"/>mas yearly, by two or more watchmen, according to the number of the inhabitants of the town, all the night from ſunne ſetting to ſunne riſing, for the arreſting of all ſuch perſons as do walk abroad in the night ſeaſon as well ſtran<g ref="char:EOLhyphen"/>gers as others.</p>
+               <pb n="12" facs="tcp:102902:9"/>
+               <p>Theſe officers ought not onely to ſee theſe watches duly ſet and kept,
+<note place="margin">Huy and cry.</note> but ought alſo to raiſe huy and cry after ſuch as ſhall diſturb and re<g ref="char:EOLhyphen"/>fuſe to obey the arreſt of the watchmen, and that the per<g ref="char:EOLhyphen"/>ſons appointed for this ſer<g ref="char:EOLhyphen"/>vice be men of diſcretion, a<g ref="char:EOLhyphen"/>ble bodies and ſufficiently armed.</p>
+               <p>Theſe watchmen ſhall be appointed by the Conſtable by courſe or turn,
+<note place="margin">Watchmen hovv ap<g ref="char:EOLhyphen"/>pointed.</note> and not at the Conſtables diſcretion.
+<note place="margin">Refuſers to vvatch.</note> And if any one ſo appointed ſhall refuſe to watch, the Conſtable <hi>ex officio</hi> (by ſome opinions) may ſet ſuch per<g ref="char:EOLhyphen"/>ſon in the ſtocks for ſuch his contempt, but the ſafeſt way (as I conceive) is to charge the next in turn, and forth<g ref="char:EOLhyphen"/>with to convent the party before the next Juſtice of
+<pb n="13" facs="tcp:102902:9"/>peace, by him to be bound o<g ref="char:EOLhyphen"/>ver to the next generall Seſ<g ref="char:EOLhyphen"/>ſions of the peace there to be indited for his offence.</p>
+               <p>The watchmen thus ap<g ref="char:EOLhyphen"/>pointed, may have theſe or the like inſtructions or direct<g ref="char:EOLhyphen"/>ions given them.</p>
+               <p>To keep the peace amongſt themſelves,
+<note place="margin">Watch<g ref="char:EOLhyphen"/>mans charge.</note> to continue their watch diligently untill the Sunne-riſing without noiſe and diſturbance of the inha<g ref="char:EOLhyphen"/>bitants, that they abide and frequent the common paſ<g ref="char:EOLhyphen"/>ſages, but ſo as they have re<g ref="char:EOLhyphen"/>gard alſo to all other places, that they examine all ſuch perſons as they ſhall ſee ſtir<g ref="char:EOLhyphen"/>ring or ſhall paſſe by them, what they be, whence they come, whether they go, and the reaſon of their late tra<g ref="char:EOLhyphen"/>vel or being abroad, and if cauſe of ſuſpicion be found in
+<pb n="14" facs="tcp:102902:10"/>them to ſtay them, if they o<g ref="char:EOLhyphen"/>bey not but reſiſt, to conſtrain them by force, and to beat them for reſiſting the peace of the Realm, if they bee too ſtrong or fly them, to levy huy and cry for the appre<g ref="char:EOLhyphen"/>hending of them, and to ſet them in the ſtocks untill the morning, and then to have them before ſome Juſtice of peace to be dealt withall ac<g ref="char:EOLhyphen"/>cording to juſtice; to reſort ſuch places where they be<g ref="char:EOLhyphen"/>hold any candle or fire-light to know the cauſe, or where they heare any noiſe of peo<g ref="char:EOLhyphen"/>ple, eſpecially in Taverns, Innes, and Alehouſes, and finding any thereto admoniſh them to depart, and refuſing, to compell them as afore<g ref="char:EOLhyphen"/>ſaid. And if any unknown perſon, horſe-man or foot<g ref="char:EOLhyphen"/>man ſhall paſſe by them, or
+<pb n="15" facs="tcp:102902:10"/>that ſhall drive any cattel, horſe, or the like, or that ſhall carry any burthen on horſe back, cart or otherwiſe to ſtay them till the morning to juſtifie themſelves, unleſſe they can render good account both of themſelves, their company and carriage, and if any poſt come by them to know what number they have, leſt offenders alſo paſſe under that pretence.</p>
+               <p>And the Conſtables are alſo to be aiding and aſſiſting to theſe watchmen upon all occaſion.
+<note place="margin">Conſtables muſt aid the vvatch.</note>
+               </p>
+               <p>And the Conſtables of hundreds and of towns ought to preſent to the Juſtices the defaults of watches and of high-wayes,
+<note place="margin">Defaults of vvatches.</note> and of ſuch as lodge ſtrangers for whom they will not anſwer.</p>
+               <p>If any perſon whatſoever
+<pb n="16" facs="tcp:102902:11"/>(except the Kings ſervants and miniſters,
+<note place="margin">Offenſive armes.</note> in his preſence, or in executing his precepts, or ſuch as ſhall aſſiſt them, or except it be upon purſuit of huy and cry, appeaſing of riots, or the like, or in going to, or from the muſters) ſhall ride or go armed offenſively, or <hi>in terrore<g ref="char:cmbAbbrStroke">̄</g> populi,</hi> by night or by day, in fairs, markets or any other place, the Conſta<g ref="char:EOLhyphen"/>bles may take and ſeiſe ſuch armour from him, and may appriſe and ſell the ſame for the Kings uſe, and may alſo carry him before a Juſtice of peace who may bind ſuch party to the peace or good behaviour, and for want of ſureties may commit him to the gaol.</p>
+               <p>And all officers that have been remiſſe or negligent in the execution of this ſtatute
+<pb n="17" facs="tcp:102902:11"/>ſhall be puniſhed according to the diſcretion of the Juſti<g ref="char:EOLhyphen"/>ces of Aſſiſe.</p>
+               <p>If any great aſſemblies or rumour of people be made in manner of inſurrection,
+<note place="margin">Inſurrecti<g ref="char:EOLhyphen"/>ons, riots, &amp;c.</note> then the Sheriff, Conſtables, &amp;c. having knowledge thereof, ought to attend the Sheriff and the Juſtices, and to go with the ſtrength of the County and to oppoſe them<g ref="char:EOLhyphen"/>ſelves againſt it, and alſo to take arreſt and impriſon the offenders; and ſo ought they to do upon riot, rout, or un<g ref="char:EOLhyphen"/>lawfull aſſembly, or againſt a<g ref="char:EOLhyphen"/>ny forcible entrie or detein<g ref="char:EOLhyphen"/>er.</p>
+               <p>If any man threaten to kill or wound another in the hearing of a Conſtable,
+<note place="margin">One threatned.</note> and he who is ſo threatned do pray ſuch Conſtable to arreſt the other to find ſurety of
+<pb n="18" facs="tcp:102902:12"/>the peace, then may and ought the ſaid Conſtable to arreſt him to go and find ſurety be<g ref="char:EOLhyphen"/>fore a Juſtice of peace, and if he refuſe to go or flyeth, the Conſtable may impriſon him in the ſtocks, till he have ſuf<g ref="char:EOLhyphen"/>ficient aid to convey him as aforeſaid. But if he yield to go it is requiſite that he take the party threatned with him to the Juſtice.</p>
+               <p>If a Conſtable ſhall ſee a<g ref="char:EOLhyphen"/>ny man going about to break the peace,
+<note place="margin">Pacifying the breach of the peace.</note> as by uſing hot words by which an affray is like to grow, he may and ought in the Kings name to command them to depart and ſurceaſe upon pain of im<g ref="char:EOLhyphen"/>priſonment, and if they will not depart but ſhall draw weapon or give any blow, then ought he to do his beſt endeavour to depart them,
+<pb n="19" facs="tcp:102902:12"/>And he may for that purpoſe both uſe his own weapon, and may alſo command o<g ref="char:EOLhyphen"/>thers to aſſiſt him, And if thereby ſuch officer, or any other perſon coming to aſ<g ref="char:EOLhyphen"/>ſiſt him do take any hurt, he ſhall have good remedy by action againſt him that hurt him; but if any of them that made the affray be hurt by ſuch officer, or by any of his company, then ſuch perſon ſo hurt ſhall have no remedy for it.</p>
+               <p>If the affray be great and dangerous then may he in the Kings name make Proclama<g ref="char:EOLhyphen"/>tion,
+<note place="margin">Make Pro<g ref="char:EOLhyphen"/>clamation.</note> that the affrayers ſhall keep the Kings peace and de<g ref="char:EOLhyphen"/>part. And if they will not depart but make reſiſtance, he may commit them for a time to the ſtocks, till their heat be over, or that he may
+<pb n="20" facs="tcp:102902:13"/>carry them before a Juſtice of the peace to find ſuretie, e<g ref="char:EOLhyphen"/>ſpecially, if any perſon have received hurt in the affray.</p>
+               <p>If the affray be in a houſe,
+<note place="margin">Purſuit of affrayers.</note> and the doores ſhut, the Con<g ref="char:EOLhyphen"/>ſtable may break into the houſe to ſee the peace kept, though none of the parties have taken any hurt; or if he that maketh the affray fly in<g ref="char:EOLhyphen"/>to any houſe, the Conſtable (in freſh ſuit) may break into the houſe and apprehend the affrayers, or if he fly into another Countie, the Con<g ref="char:EOLhyphen"/>ſtable (in freſh ſuit) may pur<g ref="char:EOLhyphen"/>ſue them, and cauſe them to be taken there, but he can meddle no further with them but as a private perſon may do, that is, to carry them be<g ref="char:EOLhyphen"/>fore a Juſtice of peace of the Countie where they are ta<g ref="char:EOLhyphen"/>ken, to cauſe them to find
+<pb n="21" facs="tcp:102902:13"/>ſuretie for the peace. But if the affrayers fly into a fran<g ref="char:EOLhyphen"/>chiſe within the ſame Coun<g ref="char:EOLhyphen"/>tie, the Conſtable may in freſh ſuit purſue and take them out of the franchiſe.</p>
+               <p>The Conſtable after an affray,
+<note place="margin">The affray ended.</note> and not preſent at the ſame, cannot without a war<g ref="char:EOLhyphen"/>rant arreſt the affrayers, ex<g ref="char:EOLhyphen"/>cept ſome perſon have re<g ref="char:EOLhyphen"/>ceived ſome hurt.</p>
+               <p>If the Conſtable that ſhall be preſent at an affray,
+<note place="margin">Puniſhed for not aſ<g ref="char:EOLhyphen"/>ſiſting.</note> doth not his beſt indeavour to part the affrayers, or being re<g ref="char:EOLhyphen"/>queſted to aſſiſt in the paci<g ref="char:EOLhyphen"/>fying of an affray done out of his preſence doth not go forthwith, in both theſe ca<g ref="char:EOLhyphen"/>ſes he ſhall be deeply fined.</p>
+               <p>If any ſhall aſſault a Con<g ref="char:EOLhyphen"/>ſtable in the execution of his office,
+<note place="margin">Aſſault a Conſtable.</note> he may not onely law<g ref="char:EOLhyphen"/>fully defend himſelf, but
+<pb n="22" facs="tcp:102902:14"/>may alſo arreſt the offen<g ref="char:EOLhyphen"/>ders, and carry them be<g ref="char:EOLhyphen"/>fore a Juſtice of peace, &amp;c.</p>
+               <p>Every private man being preſent before,
+<note place="margin">Private man.</note> or in, and du<g ref="char:EOLhyphen"/>ring the time of an affray, may and ought to ſtay and part the affrayers, or any that ſhall come to their aſſi<g ref="char:EOLhyphen"/>ſtance, but may not hurt or impriſon them unleſſe ſome perſon be dangerouſly hurt in the affray.</p>
+               <p>Note that it is properly no affray,
+<note place="margin">Affray what.</note> unleſſe there be ſome weapon drawn, or ſome ſtroke given, or offered to be given, or other attempt to ſuch purpoſe; for if men con<g ref="char:EOLhyphen"/>tend onely in hot words, this is no affray, neither may the Conſtable for words onely, lay hands upon them unleſſe they ſhall threaten alſo to kill, beat, hurt, or wound another.</p>
+               <pb n="23" facs="tcp:102902:14"/>
+               <p>If one aſſault a man in or nigh the high-way to rob him and he be taken by the true man, or by any other,
+<note place="margin">Aſſault.</note> and be brought to the Conſtable, then ought ſuch a Conſtable not onely to take him to his ward, but alſo to carry him before a Juſtice of peace to cauſe him to find ſuretie for the good behaviour.</p>
+               <p>So if any man do ſuſpect another of murther or felo<g ref="char:EOLhyphen"/>ny,
+<note place="margin">Arreſt.</note> and do declare the ſame to the Conſtable of the place, then may the Conſtable ar<g ref="char:EOLhyphen"/>reſt ſuch ſuſpected perſon, and carry him with his ac<g ref="char:EOLhyphen"/>cuſer to ſome Juſtice of the peace, &amp;c.</p>
+               <p>A felony being newly committed,
+<note place="margin">Search.</note> the Conſtable within his limits may ſearch for the felon, or the goods ſtollen, for it is a chief part
+<pb n="24" facs="tcp:102902:15"/>of their office to ſuppreſſe felons, for if there be but a common fame that A. B. hath done a felony, it is cauſe ſufficient for the Conſtable that ſhall thereof ſuſpect him to arreſt him for it.</p>
+               <p>If any man ſhall fly for fe<g ref="char:EOLhyphen"/>lony,
+<note place="margin">Seiſe the goods of a felon.</note> it is the office of the Conſtable of the town to ſeiſe on his goods, and to keep them ſafely: for the town is to anſwer for the loſſe and impairing of them; and therefore it is fit that he do it by Indenture taken in the preſence and under the te<g ref="char:EOLhyphen"/>ſty of the honeſt inhabitants.</p>
+               <p>In like manner upon the apprehenſion of any perſon for felony, the Kings officers may ſeiſe on all the goods and chattels of the offen<g ref="char:EOLhyphen"/>ders, but ſhall preſerve them, diſpending onely ſo
+<pb n="25" facs="tcp:102902:15"/>much of them, as is fit for the neceſſary ſuſtentation of the owner impriſoned, without waſting or diſpoſing of them untill the party be convicted; for then, and not before the property of them is in the Crown.</p>
+               <p>Obſerve, that in all caſes,
+<note place="margin">Conveying of priſon<g ref="char:EOLhyphen"/>ers.</note> where this officer hath ar<g ref="char:EOLhyphen"/>reſted, or hath committed to his ward an offender, that ought to be conveyed to the goal, ſuch officer is not bound inſtantly to carry him thi<g ref="char:EOLhyphen"/>ther, but may for a reaſonable time ſafely detain him in the ſtocks, or elſewhere, untill convenient proviſion of ſtrength may be made to convey him ſafely.</p>
+               <p>The gaoler of the Priſon, to which ſuch an offender is ſent, muſt receive him freely, without taking any thing of
+<pb n="26" facs="tcp:102902:16"/>the bringer. And every per<g ref="char:EOLhyphen"/>ſon that ſhall be ſo ſent, ha<g ref="char:EOLhyphen"/>ving means and abilitie, ſhall bear his own charges,
+<note place="margin">Charges of conveying Priſoners.</note> to be levied of his goods and chat<g ref="char:EOLhyphen"/>tels by the Conſtable by war<g ref="char:EOLhyphen"/>rant from a Juſtice of the peace; and not having any goods, &amp;c. then to be born by the Pariſh where ſuch a fellon is apprehended by an indifferent aſſeſſement to be made by the Conſtables and Church-wardens, and two or more of the honeſt inha<g ref="char:EOLhyphen"/>bitants there, by allowance of one Juſtice of peace.</p>
+               <p>The Conſtable having re<g ref="char:EOLhyphen"/>ceived a huy and cry for any felony,
+<note place="margin">Huy and Cry.</note> murder, robbery, &amp;c. ought with all poſſible ſpeed to make diligent purſuit after the offenders, both by horſe<g ref="char:EOLhyphen"/>men and footmen, from town to town and from County to
+<pb n="27" facs="tcp:102902:16"/>County, which way it is di<g ref="char:EOLhyphen"/>rected, and to make diligent ſearch and enquiry for ſuch within his own limits, for o<g ref="char:EOLhyphen"/>therwiſe it is no lawfull pur<g ref="char:EOLhyphen"/>ſuit. And the Conſtable for his particular neglect herein, ſhall be fined, and the whole hundred where the robbery was done ſhall anſwer for the robbery and the damages, if none of the felons be taken or known within forty daies after the robbery committed</p>
+               <p>And the inhabitants of a<g ref="char:EOLhyphen"/>ny other hundred wherein negligence or defect of pur<g ref="char:EOLhyphen"/>ſuite and freſh ſuite ſhall hap<g ref="char:EOLhyphen"/>pen ſhall anſwer and ſatisfie the one moity to the hundred ſo damnified.</p>
+               <p>And when huy and cry is firſt levied, it ought to be ſent to every town round a<g ref="char:EOLhyphen"/>bout, Eaſt, Weſt, North, and
+<pb n="28" facs="tcp:102902:17"/>South, and they ſhall do well to expreſſe in writing to the purſuers the quality of the thing ſtollen, with the colour and marks, and alſo to de<g ref="char:EOLhyphen"/>ſcribe the number of the fe<g ref="char:EOLhyphen"/>lons, their horſe, apparel, &amp;c.</p>
+               <p>If a man be ſlain within the limits and bounds of any town, in the day time, and the murderer eſcape, the whole town ſhall be amerced for the eſcape.</p>
+               <p>Upon any felony commit<g ref="char:EOLhyphen"/>ted all men generally ſhall be ready at the command<g ref="char:EOLhyphen"/>ment of the Sheriff,
+<note place="margin">All men muſt pur<g ref="char:EOLhyphen"/>ſue felons.</note> &amp;c. and at the cry of the Countrey to purſue and arreſt felons upon pain to be grievouſly fined. And every man is a ſufficient Bayliff or Officer to appre<g ref="char:EOLhyphen"/>hend him that is purſued by huy and cry; and if he be ta<g ref="char:EOLhyphen"/>ken with the thing ſuppoſed
+<pb n="29" facs="tcp:102902:17"/>to be ſtollen, though he nei<g ref="char:EOLhyphen"/>ther be of evil fame, nor a ſtranger, yet every man may commit, as well ſuch ſuſpect<g ref="char:EOLhyphen"/>ed perſon, as alſo ſuch goods to the Conſtable of the town where they be apprehended, to anſwer the King accord<g ref="char:EOLhyphen"/>ing to the Law.</p>
+               <p>Note that theſe officers may break open any mans houſe to apprehend a felon,
+<note place="margin">Break into a houſe for felons.</note> or any perſon vehemently ſuſpected of felony, being in the ſaid houſe, and ſo may they do in any other caſe where the King is a party.</p>
+               <p>As watches in the night,
+<note place="margin">Ward.</note> ſo warding by the day ſhall be appointed in every town and village for the appre<g ref="char:EOLhyphen"/>hending of rogues and vaga<g ref="char:EOLhyphen"/>bonds, and for ſafety and good order. And for that purpoſe, that there be able
+<pb n="30" facs="tcp:102902:18"/>perſons appointed and ſuffi<g ref="char:EOLhyphen"/>ciently weaponed to aſſiſt the Conſtables of every town to attach ſuch vagabonds, &amp;c. And if any townſhip ſhall not obſerve this order for the attaching and puniſhing of the ſaid vagabonds, then the Juſtices to ſet due puniſhment by fine upon the whole townſhip or upon ſuch party in the town as ſhall be found in default.</p>
+               <p>Note that every perſon whatſoever,
+<note place="margin">Rogues and Va<g ref="char:EOLhyphen"/>grants.</note> above the age of ſeven years, that under any pretence or colour whatſoe<g ref="char:EOLhyphen"/>ver ſhall wander and beg out of their own pariſh, whether with paſſe or certificate or without, and every one that carrieth any manner of paſſe, or other certificate for that purpoſe without a guide ſhall be apprehended, puniſhed and
+<pb n="31" facs="tcp:102902:18"/>conveyed as a rogue; for the law alloweth no perſon what<g ref="char:EOLhyphen"/>ſoever to wander and beg, nor any to make paſſes to that end: wherefore all paſ<g ref="char:EOLhyphen"/>ports and certificates to ask relief in any kind are either falſe and counterfeit or other<g ref="char:EOLhyphen"/>wiſe contrary to the Law, and the bearers of ſuch paſ<g ref="char:EOLhyphen"/>ſes are to be puniſhed and conveyed as aforeſaid, and their falſe paſſes taken from them, or elſe to be caried be<g ref="char:EOLhyphen"/>fore the next Juſtice of peace to be ſent to the gaol, or to be ſtrictly examined touch<g ref="char:EOLhyphen"/>ing the makers of ſuch paſſes, to the end they may be found out and puniſhed. Theſe per<g ref="char:EOLhyphen"/>ſons hereafter named ſhall be deemed and puniſhed as rogues, <hi>viz.</hi> all perſons wan<g ref="char:EOLhyphen"/>dring and miſordering them<g ref="char:EOLhyphen"/>ſelves, all perſons which
+<pb n="32" facs="tcp:102902:19"/>cannot render a lawfull ac<g ref="char:EOLhyphen"/>count of their travel, all Iriſh people wandring and beg<g ref="char:EOLhyphen"/>ging under any pretence whatſoever, all perſons cal<g ref="char:EOLhyphen"/>ling themſelves ſcholars go<g ref="char:EOLhyphen"/>ing about begging, all ſea-fa<g ref="char:EOLhyphen"/>ring men pretending loſſe of their ſhips or goods going a<g ref="char:EOLhyphen"/>bout begging, all idle per<g ref="char:EOLhyphen"/>ſons going either about beg<g ref="char:EOLhyphen"/>ging or feigning themſelves to have knowledge in Phyſio<g ref="char:EOLhyphen"/>gnomy, Palmeſtry, or other like crafty ſcience, or pre<g ref="char:EOLhyphen"/>tending that they can tell de<g ref="char:EOLhyphen"/>ſtinies, fortunes, or ſuch other phantaſticall imaginations; all perſons calling themſelvs Proctours, Procurers, Patent<g ref="char:EOLhyphen"/>gatherers, or collectours of gaols, priſons or hoſpitals; all Fencers, Bearwards, common Players of interludes, and Minſtrels wandring abroad
+<pb n="33" facs="tcp:102902:19"/>being not lawfully authori<g ref="char:EOLhyphen"/>ſed; all Juglers, Tinkers, Ped<g ref="char:EOLhyphen"/>lers, petty Chapmen and Glaſſemen wandring abroad, all wandring perſons and common labourers, being of able bodies, uſing loytering and refuſing to work for ſuch reaſonable wages as is taxed, or commonly given there where ſuch perſons do inha<g ref="char:EOLhyphen"/>bit, having not living other<g ref="char:EOLhyphen"/>wiſe to maintain themſelves; all perſons delivered out of goals that beg for their fees, or otherwiſe do travel beg<g ref="char:EOLhyphen"/>ging; all perſons that ſhall wander abroad begging, pre<g ref="char:EOLhyphen"/>tending loſſe by fire or other<g ref="char:EOLhyphen"/>wiſe, and all perſons not be<g ref="char:EOLhyphen"/>ing felons wandring and pre<g ref="char:EOLhyphen"/>tending themſelves to be E<g ref="char:EOLhyphen"/>gyptians, &amp; all perſons wan<g ref="char:EOLhyphen"/>dring in that habite, form, or attire of Counterfeit Egypti<g ref="char:EOLhyphen"/>ans.</p>
+               <pb n="34" facs="tcp:102902:20"/>
+               <p>Souldiers and Mariners which have been preſſed for their Countrey's ſervice,
+<note place="margin">Souldiers and Mari<g ref="char:EOLhyphen"/>ners.</note> and ſhall return from beyond the Seas diſabled, or otherwiſe, and ſhall bring with them a lawfull diſcharge under the hand and ſeal of the generall of the Army, or Captain of the ſhip under whom they ſerved, ſignifying their ſer<g ref="char:EOLhyphen"/>vice and cauſe of return, are by the next Juſtice of the peace to the place of their landing to have a paſſe or landing-brief made them, wherein they are to be al<g ref="char:EOLhyphen"/>lowed a competent time to travell the next ſtraight way to the place where they were born, or from whence they were impreſſed, there to be provided for according to the ſtatute. And in this their travel they are to repair to
+<pb n="35" facs="tcp:102902:20"/>the Treaſurers of every town and County through which they paſſe, who is to allow them ſufficient means to con<g ref="char:EOLhyphen"/>vey them to the next Trea<g ref="char:EOLhyphen"/>ſurer untill they arrive at the place limited. And if any ſouldier or mariner (other then ſuch as have ſuffered ſhipwrack) whether he have a paſſe or no, ſhall in his tra<g ref="char:EOLhyphen"/>vel as aforeſaid, beg or de<g ref="char:EOLhyphen"/>mand relief of any perſon whatſoever, officer or other, the Treaſurers excepted, he is to be puniſhed as a rogue, unleſſe through ſickneſſe or other apparant infirmity, he be diſabled to travel with his aforeſaid allowance be<g ref="char:EOLhyphen"/>twixt one Treaſurer and ano<g ref="char:EOLhyphen"/>ther, and in theſe caſes to be releived onely by the Con<g ref="char:EOLhyphen"/>ſtable. And if ſuch a ſouldier or mariner ſhall depart from
+<pb n="36" facs="tcp:102902:21"/>his colours or Captain with<g ref="char:EOLhyphen"/>out a lawfull diſcharge, or ſhall counterfeit ſuch teſti<g ref="char:EOLhyphen"/>moniall, or ſhall carry any ſuch knowing it to be falſe and counterfeit, or ſhall wil<g ref="char:EOLhyphen"/>fully exceed ſuch teſtimonial fourteen dayes, or ſhall not ſettle himſelf in ſome lawfull calling, but live idly, it is fe<g ref="char:EOLhyphen"/>lony of death in all theſe ca<g ref="char:EOLhyphen"/>ſes, and the Conſt. knowing or ſuſpecting the ſame ought to apprehend the offender, &amp;c. And every Conſt. may examine all ſouldiers &amp; mari<g ref="char:EOLhyphen"/>ners hereof, as alſo of their return from the warres, &amp;c.</p>
+               <p>Perſons allowed by two Juſtices of peace to travel to the Bath or Buxton for cure of their grief,
+<note place="margin">Perſons travelling to the Bath.</note> and perſons per<g ref="char:EOLhyphen"/>mitted by one Juſtice of the peace to ſeek harveſt work, are to be provided of ſuffici<g ref="char:EOLhyphen"/>ent maintenance in their ſaid
+<pb n="37" facs="tcp:102902:21"/>travel, &amp; are not to beg upon pain to be puniſhed as rogues.</p>
+               <p>The Conſtable being aſſiſt<g ref="char:EOLhyphen"/>ed by the adviſe of the Mi<g ref="char:EOLhyphen"/>niſter and one other of the pariſh,
+<note place="margin">Puniſhing of rogues.</note> upon the apprehenſi<g ref="char:EOLhyphen"/>on of every ſuch rogue as aforeſaid, ſhall cauſe them to be ſtripped naked from the middle upward, and to be openly whipped untill his or her body be bloudy, &amp; then to be ſent from pariſh to pa<g ref="char:EOLhyphen"/>riſh by the officers thereof, or other ſufficient guide with a paſſe, the next ſtraight way to the pariſh where he or ſhe was born, or laſt dwelt by the ſpace of a year (as the caſe is) or being unknown, to the pariſh where he or ſhe was ſuf<g ref="char:EOLhyphen"/>fered laſt to paſſe unpuniſhed.</p>
+               <p>Rogues are either ſuch as never had any certain dwel<g ref="char:EOLhyphen"/>ling or place of abode,
+<note place="margin">Tvvo kinds of rogues.</note> or
+<pb n="38" facs="tcp:102902:22"/>ſuch as have had or have ſome ſettled dwelling or place of abode, the firſt of theſe are to be ſent to the place of their birth, being known; or being unknown, to the houſe of correction or gaol thence to be beſtowed in ſome ſervice,
+<note place="margin">Hovv to be ſettled.</note> hoſpitall, &amp;c. the ſecond are to be ſent to the place of their laſt ſettling by the ſpace of a month, &amp;c.</p>
+               <p>
+                  <hi>The form of the ſaid Paſſe or Teſtimoniall may be this.</hi>
+               </p>
+               <p>
+                  <hi>A. B.</hi>
+                  <note place="margin">Teſtimo<g ref="char:EOLhyphen"/>niall of a rogue.</note> a ſturdy rogue of middle ſtature, &amp;c. being ta<g ref="char:EOLhyphen"/>ken begging and vagrant in the pariſh of Shep. in the Countie of Cambridge, and there puniſhed this day of J. 1639. according to the ſtatute: Theſe are therefore in his Majeſties name to charge and command you to whom it doth appertein, to
+<pb n="39" facs="tcp:102902:22"/>convey the ſaid <hi>A. B.</hi> from pariſh to pariſh by the offi<g ref="char:EOLhyphen"/>cers thereof the next and ready way to the Town of D. in the county of N. where he or ſhe affirmeth he doth dwell, or did laſt inhabit, or was born, (as the caſe is) there to be provided for ac<g ref="char:EOLhyphen"/>cording to the law, and for his or her travel to the place aforeſaid is allowed dayes and no longer, at his and your perill; Sealed and ſubſcribed the day &amp; year above written. By us,
+<list>
+                     <item>
+                        <hi>S.W.</hi> Miniſter,</item>
+                     <item>
+                        <hi>H.R.</hi> Conſtable,</item>
+                     <item>
+                        <hi>I.G.</hi> Pariſhioner.</item>
+                  </list> Or any two of them, the Conſtable to be one.</p>
+               <p>And if ſuch rogue (through his own default) do not ac<g ref="char:EOLhyphen"/>compliſh the order of ſuch Teſtimoniall, then is he or ſhe to be whipped at every
+<pb n="40" facs="tcp:102902:23"/>place for every ſuch default,
+<note place="margin">Again pu<g ref="char:EOLhyphen"/>niſhed.</note> till he or ſhe repair to the place limited. And this Te<g ref="char:EOLhyphen"/>ſtimoniall is not to be com<g ref="char:EOLhyphen"/>mitted to the hands of the rogues, but is to be convey<g ref="char:EOLhyphen"/>ed together with ſuch rogue by the officer himſelf, or o<g ref="char:EOLhyphen"/>ther ſufficient guide, who is to deliver both to the officers of the next pariſh,
+<note place="margin">Hovv con<g ref="char:EOLhyphen"/>veyed,</note> till &amp;c. and if default be made by the officer, he may be indited therefore.</p>
+               <p>Rogues ſent as aforeſaid,
+<note place="margin">And uſed.</note> are to be lodged and allowed ſome ſmall relief in their ſaid travel by the Conſtables of the townſhip through which they paſſe or lodge, and are not to be ſuffered to beg. And if any officer ſhall relieve or harbour any, or in any other manner then is expreſſed, he ſhall not onely bear the loſſe
+<pb n="41" facs="tcp:102902:23"/>thereof himſelf, but ſhall alſo forfeit the ſumme of ten ſhil<g ref="char:EOLhyphen"/>lings.</p>
+               <p>Conſtables are not to poſt away ſuch perſons as ſhall come or be ſent unto them that are deſperately ſick,
+<note place="margin">Directions in paſſing of Cripple<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and Va<g ref="char:EOLhyphen"/>grants.</note> or women with child ready to be delivered, but are to keep ſuch till they recover ſtre<g ref="char:cmbAbbrStroke">̄</g>gth; for by this means many have periſhed: neither are they to deliver any vagabonds or cripples to the next Conſta<g ref="char:EOLhyphen"/>bles after ſun-ſet, or to con<g ref="char:EOLhyphen"/>vey ſuch, eſpecially cripples by horſe or cart upon the Lords day, upon pain of pu<g ref="char:EOLhyphen"/>niſhment.</p>
+               <p>And the Conſtables that ſhall ſend a rogue, &amp;c.
+<note place="margin">Generall paſports.</note> by a generall paſport without con<g ref="char:EOLhyphen"/>veying him from pariſh to pariſh, or that ſhall refuſe to recieve a rogue ſent, or doth
+<pb n="42" facs="tcp:102902:24"/>not convey and deliver him to the officers of the next pa<g ref="char:EOLhyphen"/>riſh, in all theſe caſes he ſhall forfeit five pound,
+<note place="margin">Hinderers of their pu<g ref="char:EOLhyphen"/>niſhment.</note> and be bound to his good behavi<g ref="char:EOLhyphen"/>our; and ſo ſhall every other perſon that in any wiſe ſhall hinder or diſturbe the execu<g ref="char:EOLhyphen"/>tion of the law, concerning the puniſhing and conveying of rogues, &amp;c. and every perſon that ſhall receive, re<g ref="char:EOLhyphen"/>lieve, or harbour any rogue or vagabond, and ſhall not apprehend and carry them to the Conſtable to be puniſhed and conveyed ſhall forfeit for every default ten ſhillings.</p>
+               <p>Conſtables ſhall anſwer for every rogue or vagabond that ſhall be ſeen to paſſe the town unpuniſhed,
+<note place="margin">Relieving and harbou<g ref="char:EOLhyphen"/>ring &amp; not puniſhing rogues.</note> and his abſence ſhall not excuſe him; for he is by himſelf, the watchmen, or other ſufficient
+<pb n="43" facs="tcp:102902:24"/>deputy to be alwaies preſent.</p>
+               <p>None ſhall be ſuffered to ſtraggle and beg within their own pariſhes,
+<note place="margin">None ſhall beg.</note> but are to be relieved by work or other<g ref="char:EOLhyphen"/>wiſe at home, and if in any pariſh there be found any perſons that live out of ſer<g ref="char:EOLhyphen"/>vice, or that live idly, and will not work for reaſonable wages, or live to ſpend all they have at the Alehouſe, thoſe perſons are to be brought by the high Conſta<g ref="char:EOLhyphen"/>ble and petty Conſtables to the Juſtices at their monthly meetings, there to be ordered and puniſhed as ſhall be found fit.</p>
+               <p>
+                  <note place="margin">Searches ſhall be made for rogues.</note> Generall privy ſearches ſhall be made twice at the leaſt every year in every Hun<g ref="char:EOLhyphen"/>dred Town and Village by the appointment of the Juſti<g ref="char:EOLhyphen"/>ces for the finding out of all
+<pb n="44" facs="tcp:102902:25"/>rogues, wandring and idle perſons, and for the bringing of them before the ſaid Juſti<g ref="char:EOLhyphen"/>ces at their ſaid meetings to be puniſhed and conveyed, or being incorrigible to be ſent to the gaol, &amp;c. And if the chief or petty Conſta<g ref="char:EOLhyphen"/>ble ſhall not appear as afore<g ref="char:EOLhyphen"/>ſaid, or ſhall not give an ac<g ref="char:EOLhyphen"/>count upon oath in writing, and under the hand of the Miniſter of every pariſh, what rogues and vagabonds they have apprehended both in the ſame ſearch, as alſo be<g ref="char:EOLhyphen"/>tween every ſuch aſſembly and meeting, and how many have been by them puniſhed and otherwiſe ſent unto the houſe of correction, they ſhall forfeit ſuch fines as by the ſaid Juſtices ſhall be thought fit, not exceeding 40. ſhillings.
+<note place="margin">
+                     <hi>St.</hi> 39. <hi>Eliſ. cap.</hi> 4.</note> And the Miniſter ſhall forfeit
+<pb n="45" facs="tcp:102902:25"/>for every default five ſhil<g ref="char:EOLhyphen"/>lings.
+<note place="margin">Incorrigi<g ref="char:EOLhyphen"/>ble rogues.</note>
+               </p>
+               <p>Incorrigible rogues are ſuch as ſhall appear either to be dangerous to the inferiour ſort of people, or ſuch as will not be reformed of their roguiſh kind of life.</p>
+               <p>The Conſtable is to exe<g ref="char:EOLhyphen"/>cute the ſaid puniſhment of whipping; either himſelf,
+<note place="margin">Whipping of rogues.</note> or by ſome other by his ap<g ref="char:EOLhyphen"/>pointment.</p>
+               <p>Maiors, Sheriffs, Bayliffs,
+<note place="margin">Unlawfull games.</note> Conſtables, and other head-officers within every City, Borough and Town, within this Realm, ought, under pain of forty ſhillings for every default, once every month at the leaſt to make ſearch, as well within liberties as with<g ref="char:EOLhyphen"/>out, in all places where any unlawfull games ſhall be ſuſ<g ref="char:EOLhyphen"/>pected to be kept or uſed,
+<pb n="46" facs="tcp:102902:26"/>and may arreſt and impriſon as well the keepers of ſuch places as the haunters of the ſame, till they be found no more to keep or haunt ſuch places. And if any ſuch officer as aforeſaid ſhall find or know that any artificer, craftſman, husbandman, ap<g ref="char:EOLhyphen"/>prentice, labourer, ſervant at husbandry, journeyman, or ſerving-man doth play at the Tables, Dice, Cards, Tenniſe, Bowles, Cloſe, Coyting, Lo<g ref="char:EOLhyphen"/>gatine, or any other unlaw<g ref="char:EOLhyphen"/>full games invented or to be invented, out of Chriſtmaſſe time, or out of their Maſters houſe or preſence in the Chriſtmaſſe time, unleſſe it be by licence of ſuch maſters as have a hundred pound by year or above, and then alſo that playing to be within the precincts of ſuch maſters
+<pb n="47" facs="tcp:102902:26"/>houſe, garden or orchard, ſuch officer may commit e<g ref="char:EOLhyphen"/>very ſuch offender to Ward, till he be bound by obligati<g ref="char:EOLhyphen"/>on to the Kings uſe, in ſuch ſumme (as to the diſcretion of ſuch officer ſhall be thought reaſonable) that he ſhall not from thenceforth uſe ſuch unlawfull games.</p>
+               <p>The Conſtables are like<g ref="char:EOLhyphen"/>wiſe to have care for the maintenance of Archery,
+<note place="margin">Archerie,</note> ac<g ref="char:EOLhyphen"/>cording to the ſtature, that every perſon not being lame, or not having other impedi<g ref="char:EOLhyphen"/>ment, being within the age of threeſcore years, (except ſpirituall men &amp; Judges) ſhall have and uſe along bow and arrows upon pain of ſix ſhil<g ref="char:EOLhyphen"/>lings eight pence for every default. And that Butts be made and continued in every City and Town, and that the
+<pb n="48" facs="tcp:102902:27"/>inhabitants do exerciſe them<g ref="char:EOLhyphen"/>ſelves with the long bow in ſhooting at the ſame, and elſewhere, upon pain for eve<g ref="char:EOLhyphen"/>ry three months ſo lacking Butts twenty ſhillings.</p>
+               <p>All Conſtables,
+<note place="margin">Diſorders in Alehou<g ref="char:EOLhyphen"/>ſes.</note> Church<g ref="char:EOLhyphen"/>wardens, Headboroughs, Ti<g ref="char:EOLhyphen"/>thing-men, Alecunners and Sidemen ſhall in their ſeve<g ref="char:EOLhyphen"/>rall oaths incident to their offices be charged to preſent the offences done contrary to the ſtatutes made for the re<g ref="char:EOLhyphen"/>preſſing of drunkenneſſe, and other diſorders, in Innes and Alehouſes.</p>
+               <p>Conſtables and other in<g ref="char:EOLhyphen"/>feriour officers ſhall every of them once in every fifteen dayes ſearch and enquire the defaults and diſorders of Innes and Alehouſes.</p>
+               <p>And by the Articles given in charge by the Juſtices of
+<pb n="49" facs="tcp:102902:27"/>peace at their monthly meet<g ref="char:EOLhyphen"/>ings, the chief and petty Con<g ref="char:EOLhyphen"/>ſtables are to give an account upon oath in writing of the number of Alehouſes, which are licenced, and which are not; and of thoſe that be li<g ref="char:EOLhyphen"/>cenced, which of them keep ill orders in their houſes, ei<g ref="char:EOLhyphen"/>ther by maintaining of play, receiving of Tinkers, Ped<g ref="char:EOLhyphen"/>lers, vagabonds or other ſuſ<g ref="char:EOLhyphen"/>pected perſons, or by ſuffer<g ref="char:EOLhyphen"/>ing of tipling drunkenneſſe, &amp;c. or by ſelling by unlaw<g ref="char:EOLhyphen"/>full meaſures, or meaſures un<g ref="char:EOLhyphen"/>ſealed, or leſſe then one full ale-quart of their beſt ale or beere for a penny, and two of their ſmall.</p>
+               <p>And of Innekeepers that uſe their Innes as Alehouſes, by uttering their ale or beer out of doores, or by ſuffering of drunkenneſſe, tipling,
+<pb n="50" facs="tcp:102902:28"/>play, or other diſorder.</p>
+               <p>The Conſtable that ſhall not by warrant from the Ju<g ref="char:EOLhyphen"/>ſtice levy the twenty ſhillings forfeited for keeping ale<g ref="char:EOLhyphen"/>houſe without licence,
+<note place="margin">Penalties of the Con<g ref="char:EOLhyphen"/>ſtables.</note> or for default of diſtreſſe by like warrant do not openly puniſh the offender by whipping him, ſhall be impriſoned un<g ref="char:EOLhyphen"/>till he do the ſame, or pay the ſumme of forty ſhillings, or if he ſhall not by like war<g ref="char:EOLhyphen"/>rant levy the ſumme of five ſhillings upon the perſon convict of drunkenneſſe, or ſet the party in the ſtocks ſix houres, or ſhall not levy the ſumme of three ſhillings foure pence for unlawfull tipling, or ſet the party in the ſtocks foure houres; and of the Innekeepers and Ale<g ref="char:EOLhyphen"/>houſekeepers for their of<g ref="char:EOLhyphen"/>fence and permiſſion of theſe
+<pb n="51" facs="tcp:102902:28"/>diſorders the ſumme of ten ſhillings for each of them, or ſhall not levy the ſumme of twenty ſhillings for ſelling their beer or ale under the aſſize, ſhall in every of the ſaid caſes forfeit the ſumme of ten ſhillings.</p>
+               <p>All Conſtables, &amp;c.
+<note place="margin">Conſtables ſhall attend the quarter Seſſions.</note> are to be attendant, aiding and aſ<g ref="char:EOLhyphen"/>ſiſting to the Juſtices of the peace for the execution of their Commiſſion of the peace, and of all ſuch laws and ſtatutes whereof they have power to hear and de<g ref="char:EOLhyphen"/>termine, and to make pre<g ref="char:EOLhyphen"/>ſentment at their generall quarter Seſſions of the peace, and of all offences commit<g ref="char:EOLhyphen"/>ted and done againſt any of them, and of all bloud-ſhed<g ref="char:EOLhyphen"/>dings, affraies, outcries, re<g ref="char:EOLhyphen"/>ſcues and other offences done and committed againſt the
+<pb n="52" facs="tcp:102902:29"/>Kings peace within their ſe<g ref="char:EOLhyphen"/>verall limits or power to make fine.</p>
+               <p>The petty Conſtables of pariſhes,
+<note place="margin">Shall pre<g ref="char:EOLhyphen"/>ſent offen<g ref="char:EOLhyphen"/>ces at the Aſſiſes.</note> becauſe their perſo<g ref="char:EOLhyphen"/>nall appearance at the gene<g ref="char:EOLhyphen"/>rall Aſſiſes and gaol-delivery is not required, ſhall in con<g ref="char:EOLhyphen"/>venient time before every Aſſiſe bring their preſent<g ref="char:EOLhyphen"/>ments and anſwer of the Articles of the ſaid Juſtices of Aſſiſe, fairly writ under their hands, to ſome Juſtice of peace within that limit, who ſhall take them ſworn of the truth of the ſaid pre<g ref="char:EOLhyphen"/>ſentments, and ſubſcribe his name to teſtifie ſo much. And if any petty Conſtable be remiſſe herein, the chief Con<g ref="char:EOLhyphen"/>ſtable, who is to receive theſe preſentments, and to certifie them with his own at the ſaid Aſſiſes, ſhall do
+<pb n="53" facs="tcp:102902:29"/>well to acquaint the Juſtices of that Diviſion therewith be<g ref="char:EOLhyphen"/>fore the ſaid Aſſiſes, that ſuch petty Conſtable may recieve due puniſhment for his neg<g ref="char:EOLhyphen"/>lect, upon pain of like pu<g ref="char:EOLhyphen"/>niſhment himſelf.</p>
+               <p>The Conſtables, &amp;c.
+<note place="margin">Shall exe<g ref="char:EOLhyphen"/>cute the precepts of Juſtices of peace.</note> ought alſo to ſhew themſelves obe<g ref="char:EOLhyphen"/>dient to the precepts of the Juſtices of the peace, neither ought they to diſpute whe<g ref="char:EOLhyphen"/>ther their commandments be grounded upon ſufficient au<g ref="char:EOLhyphen"/>thority or no; for if a Juſtice of peace which is a Judge of record ſhall direct a warrant beyond his authoritie to a Conſtable or other officer, yet ſuch officer ſhall be held excuſed for executing the ſame, although the Juſtice of peace himſelf may be bla<g ref="char:EOLhyphen"/>med for it. A warrant is ſent by a Juſtice of peace to a
+<pb n="54" facs="tcp:102902:30"/>Conſtable or other officer, ſuch officer muſt ſerve it him<g ref="char:EOLhyphen"/>ſelf, and cannot by word or writing appoint another.</p>
+               <p>The Conſtable or other officer to whom ſuch warrant is ſent or delivered,
+<note place="margin">Serving of vvarrants.</note> ought with all convenient ſpeed and ſecrecie to ſeek and find out the party, and to execute the ſame, requiring the party in the Kings name to go with him according to the war<g ref="char:EOLhyphen"/>rant; if the party refuſe, the Conſtable by virtue of his ſaid warrant may arreſt and carry him by force before the Juſtice, and may require aid to aſſiſt him; and if ſuch party ſhall reſiſt, the Conſta<g ref="char:EOLhyphen"/>ble may impriſon him in the ſtocks till the ſaid party be willing to go. If it be for ſurety of the peace or good behaviour, ſuch officer before
+<pb n="55" facs="tcp:102902:30"/>he arreſt the party, ought firſt to acquaint him with the matter, and withall to re<g ref="char:EOLhyphen"/>quire and charge him in the Kings name to go with him before the Juſtice to find and put in ſureties according to the warrant, which if he re<g ref="char:EOLhyphen"/>fuſe to do, then ought ſuch officer forthwith to arreſt him (and if his warrant ex<g ref="char:EOLhyphen"/>preſſe ſo much) may convey him to the gaol without car<g ref="char:EOLhyphen"/>rying him before the Juſtice: and if the party ſhall make any reſiſtance or ſeek to eſ<g ref="char:EOLhyphen"/>cape, ſuch officer may juſtifie the beating or hurting of him. And ſuch officer ought at the next quarter Seſſions of the peace to preſent and deliver his ſaid warrant, and certifie his proceedings in this behalf.</p>
+               <p>A warrant is directed from
+<pb n="56" facs="tcp:102902:31"/>a Juſtice of peace to bring one before him, ſuch officer ſhall carry the party before that Juſtice: but if it be to bring one before himſelf or ſome other Juſtice, &amp;c. then may ſuch officer give liberty to the party to go to what Juſtice he liketh; howbeit it is in the power of the officer to carry his priſoner to what Juſtice he pleaſeth. The offi<g ref="char:EOLhyphen"/>cer ought to acquaint the co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>plainant with the time when he carrieth the delinquent be<g ref="char:EOLhyphen"/>fore the Juſtice, and is in no wiſe to ſend his warrant, but muſt be preſent himſelf; nei<g ref="char:EOLhyphen"/>ther need ſuch officer dance attendance after his priſoner untill he can find out ſureties, but he may lawfully keep him untill he can get ſuretie.</p>
+               <p>The Conſtable upon a war<g ref="char:EOLhyphen"/>rant for the peace or good
+<pb n="57" facs="tcp:102902:31"/>behaviour, or in any other caſe where the King is party, may by force of ſuch warrant break open a mans houſe to arreſt the offender: But note that the officer before he break open the houſe or doores muſt firſt ſignifie the cauſe of his coming, and deſire that the doors may be opened to him.</p>
+               <p>Every man that ſhall be required ought to aſſiſt the officer in the execution of his warrants, and to purſue and ar<g ref="char:EOLhyphen"/>reſt offe<g ref="char:cmbAbbrStroke">̄</g>ders againſt the peace.</p>
+               <p>A Conſtable hath a war<g ref="char:EOLhyphen"/>rant to arreſt <hi>J. C.</hi> and he ar<g ref="char:EOLhyphen"/>reſteth <hi>W. C.</hi> who in deed he knoweth to be the offender, and he againſt whom in very truth the complaint was made (howſoever miſtaken) yet the arreſt is tortious, and the officer ſubject to an acti<g ref="char:EOLhyphen"/>on of falſe impriſonment;
+<pb n="58" facs="tcp:102902:32"/>for the officer ought to pur<g ref="char:EOLhyphen"/>ſue the very letter of his war<g ref="char:EOLhyphen"/>rant.</p>
+               <p>A Conſtable &amp;c. hath a warrant to bring one before a Juſtice upon the complaint of another, and the parties do after agree the matter be<g ref="char:EOLhyphen"/>twixt themſelves, yet ought the Conſtable to bring the ſaid parties before the Juſtice, for &amp;c.</p>
+               <p>An officer having ſerved a warrant upon one to go be<g ref="char:EOLhyphen"/>fore a Juſtice, taketh his pro<g ref="char:EOLhyphen"/>miſe that he will come to him ſuch a time to go before the Juſtice according to ſuch warrant, and ſo letteth the party go, who faileth at the time appointed, it ſeemeth the officer cannot after arreſt or take him by virtue of that warrant, for that this was done by the voluntary con<g ref="char:EOLhyphen"/>ſent
+<pb n="59" facs="tcp:102902:32"/>of the officer, but if the party arreſted had eſcaped of his own wrong, without the conſent of the officer, the of<g ref="char:EOLhyphen"/>ficer upon freſh ſuit may take him again and again, ſo often as he eſcapeth, although he were out of view or that he ſhall fly into another County.</p>
+               <p>If a warrant be directed to a Conſtable to arreſt one that is indicted of felony, ſuch of<g ref="char:EOLhyphen"/>ficer may juſtifie the killing of ſuch a partie, if it be ſo that he cannot otherwiſe poſſibly take him; the like may be done with a felon that is ſent to the gaol, if he ſhall reſiſt or fly.</p>
+               <p>If the party againſt whom any lawfull warrant is grant<g ref="char:EOLhyphen"/>ed ſhall make reſiſtance, or ſhall make an aſſault upon the officer, or ſhall fly, the officer after arreſt may juſtifie the
+<pb n="60" facs="tcp:102902:33"/>beating or hurting of him, and may alſo impriſon him in the ſtocks for the ſame; but if the party refuſeth or flyeth before the arreſt, the officer cannot juſtifie the beating of him.</p>
+               <p>The Conſtable having ar<g ref="char:EOLhyphen"/>reſted any to be conveyed to the gaol,
+<note place="margin">Conveying of perſon to the gaol.</note> or having a Mitti<g ref="char:EOLhyphen"/>mus from the Juſtice for that purpoſe, muſt take heed he ſuffer not ſuch party to eſcape, either willingly or negligently; for if the arreſt were for felony then by a willing eſcape, the officer himſelf becometh a felon al<g ref="char:EOLhyphen"/>ſo: and of whatſoever other kind the offence be, if the of<g ref="char:EOLhyphen"/>ficer do by his will or other<g ref="char:EOLhyphen"/>wiſe ſuffer the party to eſcape he ſhall be fined for it accord<g ref="char:EOLhyphen"/>ing to the quality of the of<g ref="char:EOLhyphen"/>fence, by the diſcretion of
+<pb n="61" facs="tcp:102902:33"/>thoſe that ſhall be Judges of it. And leaſt any officer may flatter himſelf, in thinking he may eſcape with ſome eaſie fine, let him know that the Judges of his fault may ſet his fine equall with the value of his goods, if the qualitie of his default do ſo require.</p>
+               <p>The High Conſtables,
+<note place="margin">Conſtables attendance at the monethly meetings of the Juſti<g ref="char:EOLhyphen"/>ces.</note> pet<g ref="char:EOLhyphen"/>ty Conſtables, Church-war<g ref="char:EOLhyphen"/>dens and other the Overſeers for the poore of every Hun<g ref="char:EOLhyphen"/>dred, Pariſh and Village, ſhall attend the Juſtices at their monethly meetings, and there inquiry ſhall be made, and information taken by the Juſtices, of the defaults of the ſaid Officers, in the execution of the Laws and Statutes of this realm, &amp;c. and what perſons have offended againſt any of the ſaid laws; and where neglect or default is
+<pb n="62" facs="tcp:102902:34"/>found in any of the ſaid offi<g ref="char:EOLhyphen"/>cers in making their preſent<g ref="char:EOLhyphen"/>ments, condigne puniſhment to be inflicted upon them by the Juſtices according to Law.</p>
+               <p>Which informations may be reduced into theſe or the like Articles following.</p>
+               <q>Articles to be diligently in<g ref="char:EOLhyphen"/>quired of and diſtinctly,
+<note place="margin">Articles.</note> particularly anſwered (up<g ref="char:EOLhyphen"/>on oath) in writing by the chief Conſtables, pettie Conſtables, Churchwar<g ref="char:EOLhyphen"/>dens and Overſeers for the poore, at the ſaid monthly meetings of the Juſtices.</q>
+               <p>IMprimis,
+<note place="margin">I Huy and cry, Watch and vvard.</note> you ſhall dili<g ref="char:EOLhyphen"/>gently inquire and certifie whether huy and cry have been made, and duly purſued,
+<pb n="63" facs="tcp:102902:34"/>according to the Statute, for the apprehending of felons and robbers; and whether watches by night and ward<g ref="char:EOLhyphen"/>ing by day appointed in every town and village for appre<g ref="char:EOLhyphen"/>hending of rogues and vaga<g ref="char:EOLhyphen"/>bonds, and for ſafetie and good order, be duly obſerved and kept, and by whoſe de<g ref="char:EOLhyphen"/>fault the ſame hath been neg<g ref="char:EOLhyphen"/>lected.</p>
+               <p>You ſhall inquire and cer<g ref="char:EOLhyphen"/>tifie who have been remiſſe and negligent in apprehend<g ref="char:EOLhyphen"/>ing of ſuch rogues and vaga<g ref="char:EOLhyphen"/>bonds,
+<note place="margin">2 Apprehen<g ref="char:EOLhyphen"/>ſion and puniſhing of rogues.</note> what Conſtables have been remiſſe in receiving, puniſhing and conveying them, and who by any wayes or means have hindred the execution of the Statutes for the puniſhing and conveying of them: And what perſons ſince our laſt aſſembly have
+<pb n="64" facs="tcp:102902:35"/>harboured or relieved any of them: and what vagabonds or rogues have you ſince pu<g ref="char:cmbAbbrStroke">̄</g>iſhed.</p>
+               <p>You ſhall inquire and cer<g ref="char:EOLhyphen"/>tifie,
+<note place="margin">3 Labourers and Ser<g ref="char:EOLhyphen"/>vants.</note> whether the Statute of labourers for retaining of ſervants and ordering of wages betwixt the ſervant and the maſter, be not delu<g ref="char:EOLhyphen"/>ded by private contracts, before they come to the Statutes, and what ſervants are put out of ſervice, or have put themſelves out of ſervice, their terms being not expired; where this hath happened, and in whoſe de<g ref="char:EOLhyphen"/>fault, and what is become of ſuch ſervant or apprentice: and what unmarried perſons of able bodies live out of ſervice, that have not means otherwiſe to maintain them<g ref="char:EOLhyphen"/>ſelves; or if they labour for their living who ſets them on
+<pb n="65" facs="tcp:102902:35"/>work, and what perſons live idlely, or that will not work for reaſonable wages, or live to ſpend all that they have at the Ale-houſe.</p>
+               <p>You ſhall inquire &amp; certifie wat Taverns, Ins, Ale-houſes,
+<note place="margin">4 Innes and Alehouſes.</note> or other victualling houſes, are within your precinct, who keep the ſame, and how long have they ſo kept them, &amp; by what authoritie, and w<hi rend="sup">ch</hi> are licenced and by whom, and which are not; and whether thoſe that are licenced, be fit as wel in regard of the<g ref="char:cmbAbbrStroke">̄</g>ſelves, as their dwelling, and whe<g ref="char:EOLhyphen"/>ther they ſell their beere and ale according to the aſſize, that is to ſay, lawful meaſures ſealed and allowed, and not leſſe then a full ale-quart of the beſt beere or ale for a penny, and of the ſmall two full ale quarts for a penny.
+<pb n="66" facs="tcp:102902:36"/>what haunters of Taverns, Innes and Ale-houſes are there within your liberties, and what are their names, &amp;c. Which of thoſe Innes enter<g ref="char:EOLhyphen"/>tain people to ſit tipling and drinking as Ale-houſes; who have been drunk or have ſitten tipling in any one of them, ſince the laſt monthly meeting, and in what Tavern, Inne or Ale-houſe hath the ſame happened; and which of them hath kept ill orders, by maintaining of play, re<g ref="char:EOLhyphen"/>ceiving of Tinkers, Pedlers, vagabonds or other ſuſpected perſons.</p>
+               <p>You ſhall inquire and cer<g ref="char:EOLhyphen"/>tifie whether your Bakers and Brewers do keep the aſſize according to the Sta<g ref="char:EOLhyphen"/>tutes;
+<note place="margin">5 Bakers and Brevvers.</note> Bakers after the now priſes, <hi>viz.</hi> Wheat being forty ſhillings the quarter,
+<pb n="67" facs="tcp:102902:36"/>the weight of the penny white loaf drawn from the fine cocket eight ounces foure penny weight, the weight of the penny white loaf drawn from the courſe cocket twelve ounces three quarters, the weight of the penny houſhold loaf accord<g ref="char:EOLhyphen"/>ing to the courſe cocket ſixteen ounces: And whether every Baker hath his own proper mark ſet upon his bread, and doth ſell no more then thirteen penny loafs to the dozen. Whether common brewers do ſerve their beer and ale to any ale-houſe keep<g ref="char:EOLhyphen"/>ers, victuallers or tiplers, but at ſuch prices as by the Juſti<g ref="char:EOLhyphen"/>ces of the peace ſhall be ſet down and appointed accord<g ref="char:EOLhyphen"/>ing to the Statute: And whether the ſame be well ſodden, and brewed, and of
+<pb n="68" facs="tcp:102902:37"/>wholeſome grain, and with wholeſome hops, &amp; whether they ſell any beer or ale to any unlicenced alehouſekeep<g ref="char:EOLhyphen"/>ers or tiplers;
+<note place="margin">Foreſtal<g ref="char:EOLhyphen"/>lers. Ingroſſers. Regraters.</note> what foreſtal<g ref="char:EOLhyphen"/>lers, ingroſſers, and regraters of corn or other dead victuall or fuell, what tradeſmen or other that ſell any kind of commodities by falſe and unlawfull weights or mea<g ref="char:EOLhyphen"/>ſures,
+<note place="margin">Falſe vveights and mea<g ref="char:EOLhyphen"/>ſures.</note> or things made in de<g ref="char:EOLhyphen"/>ceit: what victuallers or others are there which ſell their victuall at exceſſive prices, or things unwhole<g ref="char:EOLhyphen"/>ſome; and whether your millers do take exceſſive toll for grinding,
+<note place="margin">Millers.</note> or by heaped meaſure, or uſe other falſe<g ref="char:EOLhyphen"/>hood.</p>
+               <p>You ſhall inquire and cer<g ref="char:EOLhyphen"/>tifie what Bridges,
+<note place="margin">6 Highwayes Bridges, &amp;c.</note> Cauſies, and Highwayes are in decay within your limits, and
+<pb n="69" facs="tcp:102902:37"/>through whoſe default the ſame hath happened, and whether your wayes are ſo repaired that they be ſuffici<g ref="char:EOLhyphen"/>ent for winter.</p>
+               <p>You ſhall preſent the names of all ſuch perſons as do not duly reſort to divine ſervice and ſermon every Sunday according to the ſta<g ref="char:EOLhyphen"/>tutes,
+<note place="margin">7 Abſence from Church.</note> and certifie whether the twelve pence forfeited for abſence be required and re<g ref="char:EOLhyphen"/>ceived, and duly imployed upon the poore, and of whom it hath been levyed, and of whom neglected,
+<note place="margin">Profane ſvvearers.</note> and what profane ſwearers or curſers are in your pariſh.</p>
+               <p>You ſhall inquire and cer<g ref="char:EOLhyphen"/>tifie what ſtocks of money are provided in every pariſh for the ſetting the poore on work,
+<note place="margin">8 Stocks of money to ſet the poore on vvork.</note> and whether the ſame be ſufficient to ſet all ſuch on
+<pb n="70" facs="tcp:102902:38"/>work as are of able bodies, and want means to ſet them<g ref="char:EOLhyphen"/>ſelves on work, and how and by what means are they ſet on work, and what are the names of all thoſe that are ſo ſet on work, and what and how much work have each of them had or hath wrought ſince the laſt meeting, and what or how much do you give them for their work by the day or otherwiſe, and who have refuſed to work, or working have ſpoiled, im<g ref="char:EOLhyphen"/>paired, or abuſed the ſame, and whether they be ſo pro<g ref="char:EOLhyphen"/>vided for that they be not ſuffered to ſtraggle and beg within their own pariſh or elſewhere; and whether your weekly or monthly taxation for the impotent poore be ſufficient in every pariſh to relieve them,
+<note place="margin">Relieving of the im<g ref="char:EOLhyphen"/>potent.</note> and what be
+<pb n="71" facs="tcp:102902:38"/>the names of all thoſe that have contribution ſince the laſt meeting, &amp; what ſumme or ſummes of money hath been given to each of them, and what poore peoples chil<g ref="char:EOLhyphen"/>dren are fit to be bound out apprentices,
+<note place="margin">Apprenti<g ref="char:EOLhyphen"/>ces.</note> and who are fit to take them, and what ap<g ref="char:EOLhyphen"/>prentices have been former<g ref="char:EOLhyphen"/>ly put forth, and have not been received, and in whoſe default the ſame is, or being received have miſuſed them, or have not ſealed their in<g ref="char:EOLhyphen"/>dentures.</p>
+               <p>You ſhall inquire and cer<g ref="char:EOLhyphen"/>tiſie what private gifts have been given in every pariſh for the relief of the poore or other charitable uſes,
+<note place="margin">9 Private gifts.</note> and whether is the ſame continu<g ref="char:EOLhyphen"/>ed and imployed according to the will of the donour; if not how long hath the ſame
+<pb n="72" facs="tcp:102902:39"/>been diſcontinued or miſim<g ref="char:EOLhyphen"/>ployed, and by whom; and whether ſuch gifts be any oc<g ref="char:EOLhyphen"/>caſion of leſſening the rates of the pariſh.</p>
+               <p>The firſt ſix of theſe arti<g ref="char:EOLhyphen"/>cles (properly) are to be an<g ref="char:EOLhyphen"/>ſwered unto by the Conſta<g ref="char:EOLhyphen"/>bles, the three latter by the Churchwardens and Over<g ref="char:EOLhyphen"/>ſeers for the poore.</p>
+               <p>The Conſtables of every town,
+<note place="margin">Conſtables rates.</note> and the greater part of the pariſhioners (upon notice given) may aſſemble and make rates, and may tax eve<g ref="char:EOLhyphen"/>ry inhabitant by their lands (or goods in ſome caſes) for all manner of town or coun<g ref="char:EOLhyphen"/>trey-charges; and if the great<g ref="char:EOLhyphen"/>er part of the pariſhioners will not meet, then the Con<g ref="char:EOLhyphen"/>ſtable alone, and ſo many of the pariſh as will meet, may make ſuch rates: and if any
+<pb n="73" facs="tcp:102902:39"/>ſhall refuſe to pay the rates ſo made, and allowed by the Juſtices of that Diviſion un<g ref="char:EOLhyphen"/>der their hands, the party re<g ref="char:EOLhyphen"/>fuſing, by the Juſtices ſhall be bound over to the next gene<g ref="char:EOLhyphen"/>rall Seſſions of the peace, there to be ordered, and is not to be preſented for his default to the ſaid Seſſions by the officers, before the ſaid Juſti<g ref="char:EOLhyphen"/>ces of the peace have heard the parties allegations.
+<note place="margin">Hovv rai<g ref="char:EOLhyphen"/>ſed.</note>
+               </p>
+               <p>Conſtables rates (in coun<g ref="char:EOLhyphen"/>trey towns and villages) are uſually raiſed by land, yet where the Statutes in parti<g ref="char:EOLhyphen"/>cular caſes give no ſpeciall direction, it is good diſcre<g ref="char:EOLhyphen"/>tion to go according to the rule of taxations for the poore:
+<note place="margin">What eſtates and perſons are liable to them.</note> All eſtates and conditions, as well Spiri<g ref="char:EOLhyphen"/>tuall as Temporall, are by ſome thought to be lyable
+<pb n="74" facs="tcp:102902:40"/>to theſe taxations, but then they diſtinguiſh them in this manner:
+<note place="margin">43. <hi>Eliſ. cap.</hi> 3.14. <hi>Eliſ. cap.</hi> 5.1. <hi>Jac. cap.</hi> 25.</note> The Conſtables rate (ſay they) conſiſteth of ſundry particulars, that is to ſay, of quarterly payments for the relief of lame ſouldi<g ref="char:EOLhyphen"/>ers, marſhalſies, and priſoners of the gaol,
+<note place="margin">All Eccle<g ref="char:EOLhyphen"/>ſiaſticall perſons are included in the gene<g ref="char:EOLhyphen"/>rall vvords of the ſta<g ref="char:EOLhyphen"/>tutes, per<g ref="char:EOLhyphen"/>ſon or per<g ref="char:EOLhyphen"/>ſons.</note> the conveying of cripples, wandering people, and the like, all which are acts of charitie, expences in martiall affairs, muſters, train<g ref="char:EOLhyphen"/>ing and levying of ſouldiers, and ſuch like, to which all perſons whatſoever, are chargeable by the law or the State without exemption;
+<note place="margin">9. <hi>Hen.</hi> 3 <hi>cap.</hi> 21. 3. <hi>Ed.</hi> 1. <hi>cap.</hi> 1. 9. <hi>Ed.</hi> 2. <hi>cap.</hi> 11. 14. <hi>Ed.</hi> 3 <hi>cap.</hi> 1. 18. <hi>Ed.</hi> 3 <hi>cap.</hi> 4. 1. <hi>Ric.</hi> 2. <hi>cap.</hi> 3.</note> but if the Conſtables will inſert into their rates (as ſome uſually have done) compo<g ref="char:EOLhyphen"/>ſitions for purveyances and carriages for his Majeſtie and his houſhold, from which the Clergy are ſpecially by the
+<pb n="75" facs="tcp:102902:40" rendition="simple:additions"/>Statutes exempt, I conceive they are not ratable in this reſpect.</p>
+               <p>If rates be made for his Majeſties carriages,
+<note place="margin">Rates for carriages.</note> theſe officers (as I think) are not to put the ſame in their gene<g ref="char:EOLhyphen"/>ral account for town-charges; for then the poore and ſuch as are not liable thereunto, and thoſe that neither have lands nor means muſt bear a part and ſhare therein, which ſeemeth not reaſonable: be<g ref="char:EOLhyphen"/>ſides by this courſe of hiring, his Majeſtie is oft times de<g ref="char:EOLhyphen"/>ceived, and the country much abuſed by the cart-takers: and that this charge may the more equally be born, ſuch perſons as have lands in oc<g ref="char:EOLhyphen"/>cupation, may be proportio<g ref="char:EOLhyphen"/>ned to ſome certaintie, what number of acres ſhall be aſſigned for a carriage, and ſo
+<pb n="76" facs="tcp:102902:41"/>to take the ſame by courſe; and for poſt-horſes, that none be charged by rate, or of thoſe that have no horſes, for avoyding the like abuſe.</p>
+               <p>
+                  <note place="margin">Books to enter rates.</note> And for this purpoſe theſe Officers ſhall do well to keep a book fairly writ, how every perſon is charged, to the end that no man be ſurcharged, or out of courſe; wherein alſo theſe and all other Officers of the town may write their rates, which otherwiſe in looſe papers are ſubject to be loſt, torn or abuſed, which books may be delivered from Officer to Officer as they ſhall ſucceed.</p>
+               <p>Laſtly, for the help, as well of the chief, as the petty Conſtables, in the execution of divers Statutes, which are moſt uſefull and ordina<g ref="char:EOLhyphen"/>ry in the diſcharge and
+<pb n="77" facs="tcp:102902:41"/>practice of their ſaid office, and for avoyding of ſundry penalties ordained for their neglect therein, I have colle<g ref="char:EOLhyphen"/>cted theſe few following, and firſt of the chief Con<g ref="char:EOLhyphen"/>ſtables.</p>
+               <p>
+                  <note place="margin">5. <hi>Eliſ. c.</hi> 4.</note>
+                  <note place="margin">High Con<g ref="char:EOLhyphen"/>ſtables Sta<g ref="char:EOLhyphen"/>tute-Seſ<g ref="char:EOLhyphen"/>ſions.</note> High-Conſtables of Hun<g ref="char:EOLhyphen"/>dreds in all ſuch Shires, where pettie Seſſions for ſervants and labourers (otherwiſe cal<g ref="char:EOLhyphen"/>led Statute-Seſſions) were uſed to be kept, may yet ſtill hold their ſaid Seſſions, ſo that nothing be done in them repugnant to the ſaid Sta<g ref="char:EOLhyphen"/>tute.</p>
+               <p>The Conſtables of Hun<g ref="char:EOLhyphen"/>dreds and of Franchiſes ought to make preſentment to the Juſtices of peace,
+<note place="margin">Defaults of vvatches and high-vvayes.</note> and to all other Juſtices thereto aſſigned of the defaults of watches, and the defaults of the Kings high-wayes not
+<pb n="78" facs="tcp:102902:42"/>enlarged, ſo as no ditches, underwoods or buſhes, be within two hundred foot on either ſide of the ſame, and alſo of ſuch as lodge ſtran<g ref="char:EOLhyphen"/>gers in uplandiſh towns, for whom they will not anſwer.
+<note place="margin">Unlavvfull Arms.</note>
+               </p>
+               <p>
+                  <note place="margin">
+                     <hi>Stat. North<g ref="char:EOLhyphen"/>hamp<g ref="char:EOLhyphen"/>ton.</hi> 2. <hi>Ed.</hi> 3. <hi>cap.</hi> 3.7. <hi>Ric.</hi> 2 <hi>cap.</hi> 13.</note> Every chief Conſtable may arreſt any perſon that ſhall go or ride armed unlaw<g ref="char:EOLhyphen"/>fully or offenſively by night or by day, in affray or terrour of the Kings people, and may ſeiſe and take away ſuch armes.</p>
+               <p>
+                  <note place="margin">Collecti<g ref="char:EOLhyphen"/>ons for ſouldiers, and priſo<g ref="char:EOLhyphen"/>ners.</note>
+                  <note place="margin">43. <hi>Eliſ. cap.</hi> 3.</note> The chief Conſtable that hath received the moneys appointed for the relief of maimed Souldiers and Mari<g ref="char:EOLhyphen"/>ners, and for the priſoners of the Kings bench and Mar<g ref="char:EOLhyphen"/>ſhalſey, failing to pay the ſame at the next quarter Seſ<g ref="char:EOLhyphen"/>ſions following, ſhall forfeit for every default fortie ſhil<g ref="char:EOLhyphen"/>lings,
+<pb n="79" facs="tcp:102902:42"/>
+                  <note place="margin">14. <hi>Eliſ. cap.</hi> 5. 1. <hi>Jac. cap.</hi> 25.</note> or in making ſuch quarterly payment of ſuch ſummes of money as are rai<g ref="char:EOLhyphen"/>ſed in every Pariſh for the re<g ref="char:EOLhyphen"/>lief of the Priſoners in the common goal, and paid unto them by the Officers of ſuch Towns, ſhall forfeit five pound for every default.</p>
+               <p>
+                  <note place="margin">4. <hi>Ed.</hi> 4. <hi>cap.</hi> 1.</note>
+                  <note place="margin">Clothiers and their vvorkers.</note> Chief Conſtables of hun<g ref="char:EOLhyphen"/>dreds may heare and deter<g ref="char:EOLhyphen"/>mine the complaints of workers to Clothiers, and of Clothiers againſt their workfolks, by examination of the parties, and may com<g ref="char:EOLhyphen"/>mit to the goal ſuch as refuſe to pay the ſaid workfolks.</p>
+               <p>
+                  <note place="margin">2. <hi>&amp;</hi> 3. <hi>Ph. &amp; Mar. cap.</hi> 8.5. <hi>Eliſ. cap.</hi> 13.18. <hi>Eliſ. cap.</hi> 10.</note>
+                  <note place="margin">Highvvayes</note> By eſtreats indented from the Clerk of the peace, or by Stewards of leets, the Con<g ref="char:EOLhyphen"/>ſtables of the hundred, may levy by diſtreſſe the for<g ref="char:EOLhyphen"/>feitures for defects in repair<g ref="char:EOLhyphen"/>ing of High wayes.</p>
+               <pb n="80" facs="tcp:102902:43"/>
+               <p>
+                  <note place="margin">Popiſh Re<g ref="char:EOLhyphen"/>cuſants.</note>
+                  <note place="margin">3. <hi>Jac. c.</hi> 4.</note> The chief Conſtables of the Hundred in default of the Churchwardens and Con<g ref="char:EOLhyphen"/>ſtable of every pariſh ſhall once every year preſent the monethly abſence from Church of all popiſh recu<g ref="char:EOLhyphen"/>ſants within ſuch pariſhes, and the names of their ſer<g ref="char:EOLhyphen"/>vants and children being above nine years old, &amp;c. at the generall quarter Seſſions upon pain to forfeit twenty ſhillings; and if by ſuch pre<g ref="char:EOLhyphen"/>ſentment ſuch recuſant be indicted and convicted, not being for the ſame offence formerly preſented, the pre<g ref="char:EOLhyphen"/>ſenter ſhall have forty ſhil<g ref="char:EOLhyphen"/>lings to be levied out of the recuſants goods and eſtate by warrant under the hands and ſeals of moſt of the Juſtices there preſent.</p>
+               <p>
+                  <note place="margin">Purveyers. 2. <hi>&amp;</hi> 3. <hi>Ph. &amp; Mar. cap.</hi> 6.</note> The name or mark of eve<g ref="char:EOLhyphen"/>ry
+<pb n="81" facs="tcp:102902:43"/>high Conſtable or petty Conſtable, &amp;c. ſhall be ſub<g ref="char:EOLhyphen"/>ſcribed to the blanks expreſ<g ref="char:EOLhyphen"/>ſed in the Kings Purveyer's Commiſſion, in which ſhall be fairly written all ſuch beeves, weathers, &amp;c. with the prices of the ſame as ſhall be levied or purveyed, &amp;c. and to whom any precept is directed, or ſhall be privy to the delivery. And ſuch Pur<g ref="char:EOLhyphen"/>veyer, &amp;c. ſhall make and deliver unto the ſaid high Conſtable, &amp;c. a docket or brief in writing ſubſcribed with their names a particular of the things purveyed, which dockets or briefs the ſaid Conſtables, &amp;c. ſhall deliver over to the Juſtices at their generall Seſſions, &amp;c.</p>
+               <p>
+                  <note place="margin">Petty Con<g ref="char:EOLhyphen"/>ſtables.</note>
+                  <note place="margin">23. <hi>H.</hi> 6. <hi>cap.</hi> 4.</note> If any perſon ſhall without lawfull bargain take or pur<g ref="char:EOLhyphen"/>vey any thing of any of the
+<pb n="82" facs="tcp:102902:44"/>Kings ſubjects to the uſe of any other then the King and his houſe, and notice and re<g ref="char:EOLhyphen"/>queſt thereof be made to the Conſtable of the place to be aiding and aſſiſting to the party wronged, ſuch officer ought under pain of twenty pound to arreſt ſuch taker, and carry him before ſome Juſtice of peace to be ſent to priſon there to remain untill he anſwer the law.</p>
+               <p>
+                  <note place="margin">Purveyers ſhall pay.</note>
+                  <note place="margin">20. <hi>H.</hi> 6. <hi>cap.</hi> 8.</note> The Kings takers that make purveyance of any thing not exceeding forty ſhillings ſhall make ready payment in hand for the ſame, otherwiſe the owner may retain the thing ſo taken and may reſiſt, and the Conſtable, &amp;c. of the place being thereunto requi<g ref="char:EOLhyphen"/>red ought to be aiding and aſſiſting therein upon pain to yield to the party grieved the
+<pb n="83" facs="tcp:102902:44"/>value of the thing taken and his double damage.</p>
+               <p>
+                  <note place="margin">2. <hi>&amp;</hi> 3. <hi>Ph. &amp; Mar. cap.</hi> 6.</note> And if the thing taken be above forty ſhillings then dockets ſhall be delivered to the chief Conſtable or petty Conſtables, by the purveyer under his hand, who ſhall de<g ref="char:EOLhyphen"/>liver them to the Juſtices at their next quarter Seſſions.</p>
+               <p>
+                  <note place="margin">5. <hi>Ed.</hi> 3. <hi>cap.</hi> 1. 26 <hi>Ed.</hi> 3 <hi>c.</hi> 3.</note>
+                  <note place="margin">Purveyers.</note> The Kings takers ſhall make their purveyance by the very value of the thing taken, and by the view of the Con<g ref="char:EOLhyphen"/>ſtable, and by the appriſe<g ref="char:EOLhyphen"/>ment under the oath of foure of the goodmen of the town where the taken ſhall be, who are to be appointed by the Conſt. &amp; tallies or indentures ought to be made and ſealed between the taker and the owner in the preſence of the Conſtable and priſers, by w<hi rend="sup">ch</hi> ſatisfaction is to be made to the owner.</p>
+               <pb n="84" facs="tcp:102902:45"/>
+               <p>
+                  <note place="margin">Commiſſi<g ref="char:EOLhyphen"/>on for pur<g ref="char:EOLhyphen"/>veyance.</note>
+                  <note place="margin">28. <hi>Ed.</hi> 1. <hi>c.</hi> 2.</note> Note that no Commiſſion for purveyance of victuall ſhall indure above ſix months; and it ſhall be written in the Engliſh tongue.</p>
+               <p>
+                  <note place="margin">Cart-ta<g ref="char:EOLhyphen"/>kers.</note>
+                  <note place="margin">28. <hi>H.</hi> 6. <hi>c.</hi> 2.</note> No Purveyer &amp;c. of the Kings ſhall take any horſe or cart without agreement with the owner, and by the deli<g ref="char:EOLhyphen"/>very of the Conſtable of the place where ſuch takings ſhall be.</p>
+               <p>
+                  <note place="margin">Labourers in harveſt.</note>
+                  <note place="margin">5. <hi>Eliſ. cap.</hi> 4.</note> In the time of hay or corn-harveſt the Conſtable of any Townſhip upon re<g ref="char:EOLhyphen"/>queſt made, and for the a<g ref="char:EOLhyphen"/>voiding of loſſe of corn, grain and hay may cauſe all ſuch artificers and perſons (as be meet to labour in his diſcre<g ref="char:EOLhyphen"/>tion) to ſerve by the day for the mowing, reaping, ſheer<g ref="char:EOLhyphen"/>ing, getting or inning of corn or hay, according to the skill and quality of the perſon; and
+<pb n="85" facs="tcp:102902:45"/>if any ſhall refuſe ſo to do, then may &amp; ought ſuch officer under the pain of forty ſhil<g ref="char:EOLhyphen"/>lings to impriſon ſuch refu<g ref="char:EOLhyphen"/>ſer in the ſtocks by the ſpace of two dayes and one night.</p>
+               <p>
+                  <note place="margin">2. <hi>&amp;</hi> 3. <hi>Ph. &amp; Mar. cap.</hi> 8. 29. <hi>Eliſ. cap.</hi> 5.</note>
+                  <note place="margin">Surveyers of high-vvayes.</note> The Conſtables &amp; Church<g ref="char:EOLhyphen"/>wardens of every pariſh ought yearly upon the tueſ<g ref="char:EOLhyphen"/>day or wedneſday in Eaſter week to call together a num<g ref="char:EOLhyphen"/>ber of the pariſhioners, and to chooſe two honeſt men of their pariſh to be Surveyers of the work, for amendment of the high wayes within their pariſh, leading to any market town; and then ought alſo to appoint ſix dayes for the amendment of thoſe wayes before Midſummer then next following, and ought alſo openly in the Church the next Sunday af<g ref="char:EOLhyphen"/>ter Eaſter to give knowledge
+<pb n="86" facs="tcp:102902:46"/>of the ſame ſix daies, upon pain of ſine making, to be aſſeſſed by the Steward of the Leet; or in default thereof by two Juſtices of peace in open Seſ<g ref="char:EOLhyphen"/>ſions, as in their diſcretion ſhall be thought meet.</p>
+               <p>
+                  <note place="margin">Tax for lame ſoul<g ref="char:EOLhyphen"/>diers and priſoners.</note>
+                  <note place="margin">43. <hi>Eliſ. c.</hi> 3.</note> In default of the Pariſhio<g ref="char:EOLhyphen"/>ners themſelves, the Conſta<g ref="char:EOLhyphen"/>ble and Churchwardens of every Pariſh, or the more part of them may aſſeſſe within their Pariſh the tax impoſed upon the ſame by the Juſti<g ref="char:EOLhyphen"/>ces, for the relief of maimed Souldiers and Mariners, and for the Priſoners of the Kings Bench and Marſhial<g ref="char:EOLhyphen"/>ſies, and may alſo levy the ſame upon any pariſhioner by diſtreſſe and ſale of his goods &amp;c. and ſhall pay the ſame over unto the High-Conſta<g ref="char:EOLhyphen"/>ble, in whoſe Diviſion ſuch pariſh ſhall be ſituate, ten daies
+<pb n="87" facs="tcp:102902:46"/>before every quarter Seſſi<g ref="char:EOLhyphen"/>ons, upon pain to forfeit for every default twenty ſhillings</p>
+               <p>
+                  <note place="margin">14. <hi>Eliſ. cap.</hi> 5.</note>
+                  <note place="margin">Tax for priſoners in the Gaol.</note> The money impoſed upon each Pariſh for the relief of Priſoners in the common goal, ought to be levied and paid by the Churchwardens, upon the pain of five pound: but the Conſtables do with us alſo pay the ſame.</p>
+               <p>
+                  <note place="margin">Malt.</note> The Conſtables alſo of every Borough or Town may ſearch and ſurvey all ſuch Malt as ſhall be made or put to ſale there; and if they find any Barley-malt made at any time (the months of <hi>June, July</hi> and <hi>August</hi> onely excepted) but that the ſame ſhall have the ſpace of three weeks at the leaſt in the fat, floore, ſteeping and ſufficient drying thereof, and in theſe three moneths,
+<pb n="88" facs="tcp:102902:47"/>the ſpace of ſeventeen dayes at the leaſt, or if he find any perſon to put to ſail any good malt mingled with malt not ſufficiently made, or with malt made with mow-burnt or ſpyred barley, or that put to ſail any malt not ſufficient<g ref="char:EOLhyphen"/>ly well trodden, rubbed and fanned, whereby half a peck of duſt or more may be fanned out of one quarter thereof, then may ſuch Con<g ref="char:EOLhyphen"/>ſtable with the advice of one Juſtice of peace of that Shire, cauſe the ſame malt to be ſold to ſuch perſons, and at ſuch reaſonable prices under the common price of the market as to his diſcretion ſhall ſeem fit.</p>
+               <p>The Conſtables,
+<note place="margin">Lent.</note>
+                  <note place="margin">1. <hi>Jac. cap.</hi> 29.</note> &amp;c. may yearly in time of Lent enter into the houſes of victuallers, and finding there any beef,
+<pb n="89" facs="tcp:102902:47"/>mutton, veal or hogs fleſh, except fleſh to be killed three dayes before Eaſter, may ſeiſe the ſame as forfeit, and may give it to priſoners or other poore folk at his diſcre<g ref="char:EOLhyphen"/>tion.</p>
+               <p>The Conſtable,
+<note place="margin">1. <hi>Jac. cap.</hi> 31.</note>
+                  <note place="margin">Plague.</note> &amp;c. that ſhall wilfully make default in levying ſuch money, as they ſhall be commanded to levy by the warrant of two Juſtices of the peace upon the Statute for the relief of any Town infected with the plague, ſhall forfeit for eve<g ref="char:EOLhyphen"/>ry ſuch offence tenne ſhil<g ref="char:EOLhyphen"/>lings.</p>
+               <p>
+                  <note place="margin">3. <hi>Car. cap.</hi> 3.</note>
+                  <note place="margin">Unlicenced Alehouſe.</note> The Conſtable refuſing or neglecting upon command of one Juſtice of peace, openly by himſelf or ſome other to whip an offender according to the Statute, for keeping Ale-houſe without licence,
+<pb n="90" facs="tcp:102902:48"/>ſhall be impriſoned untill he do it, or pay forty ſhillings for his contempt.</p>
+               <p>The Conſtables,
+<note place="margin">Stoned horſe.</note>
+                  <note place="margin">32. <hi>H.</hi> 8. <hi>cap.</hi> 13.8. <hi>Eliſ. cap.</hi> 8.</note> &amp;c. or the three perſons that ſhall be requeſted to be at the meaſuring of any ſtoned horſe being above the age of two years, and going in any common Marſh or Fenne-ground within this Countie of Cambridge, or the Iſle of Ely, &amp;c. according to the Statute, that ſhall refuſe to do the ſame, or do not truly meaſure ſuch horſes, ſhall forfeit for every ſuch offence fortie ſhillings. And ſo ſhall that Conſtable within whoſe precincts and limits ſuch Moores, Commons, Fennes, and Marſhes, &amp;c. be not year<g ref="char:EOLhyphen"/>ly, at the feaſt of S. Michael the Archangle, or within fifteen dayes after effectually driven.</p>
+               <pb n="91" facs="tcp:102902:48"/>
+               <p>
+                  <note place="margin">43. <hi>Eliſ. cap.</hi> 7.</note>
+                  <note place="margin">Hedge<g ref="char:EOLhyphen"/>breakers.</note> The Conſtable muſt whip or cauſe to be whipped ſuch hedge-breakers, robbers of Orchards, cutters of corn or wood, &amp;c. as for that purpoſe are committed unto him by any juſtice of peace, upon pain to be committed themſelves to the common goal with<g ref="char:EOLhyphen"/>out bail untill it be done.</p>
+               <p>
+                  <note place="margin">3. <hi>Jac. cap.</hi> 4.</note>
+                  <note place="margin">Popiſh Re<g ref="char:EOLhyphen"/>cuſants.</note> The Conſtables of Pa<g ref="char:EOLhyphen"/>riſhes and Villages, ſhall once a yeare preſent the monethly abſence from Church of all Popiſh Recuſants, &amp;c. upon the like penaltie as is before declared of the chief Conſta<g ref="char:EOLhyphen"/>ble, and ſhall have the like reward, &amp;c.</p>
+               <p>The Ruler,
+<note place="margin">5. <hi>Ed.</hi> 4.3. <hi>Acc ſur le caſe B.</hi> 76.</note> Conſtable,
+<note place="margin">Lodging of travel<g ref="char:EOLhyphen"/>lers.</note> or other Officer of any Town, may compell any common Inne-holder or Ale-houſe<g ref="char:EOLhyphen"/>keeper, to lodge ſuch as travel.</p>
+               <pb n="92" facs="tcp:102902:49"/>
+               <p>The Conſtable,
+<note place="margin">Servants departing.</note>
+                  <note place="margin">5. <hi>Eliſ. cap.</hi> 4.</note> &amp;c. under his ſeal, and two honeſt houſholders ſhall make this teſtimoniall, for a ſervant retained in husbandry or in any the Arts appointed by the Statute of labourers, whoſe time of retainour be<g ref="char:EOLhyphen"/>ing expired, ſhall depart out of the Town or Pariſh where he laſt ſerved, to ſerve in another, as followeth.</p>
+               <q>Memorandum, <hi>That</hi> A. B. <hi>late ſervant of</hi> C. D. <hi>in the Countie of</hi> C. <hi>Husbandman, or Taylor,</hi> &amp;c. <hi>is licenced to depart from his ſaid maſter, and is at liberty to ſerve elſe<g ref="char:EOLhyphen"/>where, according the Statute in that caſe made and provi<g ref="char:EOLhyphen"/>ded, In witneſſe whereof,</hi> &amp;c. <hi>Dated, the day, moneth, yeare and place of the ma<g ref="char:EOLhyphen"/>king thereof.</hi>
+               </q>
+               <pb n="93" facs="tcp:102902:49"/>
+               <p>And if ſuch perſon be ac<g ref="char:EOLhyphen"/>cepted into any other ſervice without ſhewing ſuch teſti<g ref="char:EOLhyphen"/>moniall to the Conſtable, &amp;c. of the place where he ſhall be accepted, he ſhall be impriſoned till he procure ſuch a teſtimoniall; which if he do not within twelve daies next after the firſt day of his impriſonment, he ſhall be whipped as a vagabond.</p>
+               <p>
+                  <note place="margin">Huy and cry.</note> The money recovery upon the hundred by the party robbed,
+<note place="margin">27. <hi>Eliſ. cap.</hi> 13.</note> and aſſeſſed by the Juſtices upon the ſtatute of huy and cry, ſhall be levied by the Conſtables ratably, by diſtreſſe and ſale of the goods and chattels of ſuch as refuſe to pay the ſame.</p>
+               <p>The Miniſter or Curate of the pariſh,
+<note place="margin">35. <hi>Eliſ. cap.</hi> 1.</note>
+                  <note place="margin">Popiſh Re<g ref="char:EOLhyphen"/>euſant ſent.</note> and the Conſtable &amp;c. of the town to which any Popiſh Recuſant ſhall be ſent
+<pb n="94" facs="tcp:102902:50"/>by order of the ſtatute, ſhall enter the ſame into a book to be kept in every pariſh for that purpoſe, and ſhall certifie the ſame at the next quarter-Seſſions of the peace in that County.</p>
+               <q>Sundry other Statutes there are wherein the Conſtables are miniſters, but becauſe they have ſpeciall direction by the precepts of the Juſtices of peace in the execution of them, I have willingly omit<g ref="char:EOLhyphen"/>ted them; yet muſt they know that if they be found cold, re<g ref="char:EOLhyphen"/>miſſe, or negligent therein, or in any wiſe in the executi<g ref="char:EOLhyphen"/>on of their office,
+<note place="margin">Co<g ref="char:cmbAbbrStroke">̄</g>miſ. pacis.</note> they are lia<g ref="char:EOLhyphen"/>ble to be indicted therefore, and to receive ſuch puniſh<g ref="char:EOLhyphen"/>ment and cenſure as the Ju<g ref="char:EOLhyphen"/>ſtices in open Seſsions ſhall appoint.</q>
+               <pb n="95" facs="tcp:102902:50"/>
+               <p>If any action, bill, plaint,
+<note place="margin">A remedy for Con<g ref="char:EOLhyphen"/>ſtables, &amp;c. againſt contenti<g ref="char:EOLhyphen"/>ous ſuits proſecuted againſt them for the lavvfull execution of their office.</note> information or ſuit upon the caſe,
+<note place="margin">7. <hi>Jac. cap.</hi> 5.21. <hi>Jac. cap.</hi> 12.</note> treſpaſſe, battery, or falſe impriſonment ſhall be brought or co<g ref="char:cmbAbbrStroke">̄</g>menced againſt any Juſtice of peace, Maior, Bayliff of City or Town corporate, Headborough, Portrecue, Conſtable, Ti<g ref="char:EOLhyphen"/>thing-man, Collectour of ſub<g ref="char:EOLhyphen"/>ſidy or fifteens, Church war<g ref="char:EOLhyphen"/>dens, &amp; perſons called ſworn<g ref="char:EOLhyphen"/>men executing the office of Churchwarden or Overſeer of the poore, and their depu<g ref="char:EOLhyphen"/>ties, or any of them, or any other which in their aid or aſſiſtance, or by their com<g ref="char:EOLhyphen"/>mandment ſhall do any thing touching his or their office, for or concerning any matter cauſe, or thing, by them or any of them done, by virtue or reaſon of their or any of their office or offices, that the
+<pb n="96" facs="tcp:102902:51"/>ſaid action, bill, plaint or ſuit ſhall be laid within the Coun<g ref="char:EOLhyphen"/>tie where the treſpaſſe or fact ſhall be done or committed, and not elſewhere, and it ſhall be lawfull to, and for all and every perſon or perſons aforeſaid to plead thereunto the generall iſſue, that he or they are not guilty, and to give ſuch ſpeciall matter in evidence to the Jury which ſhall try the ſame, which ſpe<g ref="char:EOLhyphen"/>ciall matter being pleaded, had been a good and ſufficient matter in law to have diſ<g ref="char:EOLhyphen"/>charged the ſaid defendant of the treſpaſſe or other mat<g ref="char:EOLhyphen"/>ter laid to his charge. And if upon the triall of any ſuch action, &amp;c. the plaintiff there<g ref="char:EOLhyphen"/>in ſhall not prove to the Jury which ſhall try the ſame, that the treſpaſſe, battery, impri<g ref="char:EOLhyphen"/>ſonment, or other fact, &amp;c.
+<pb n="97" facs="tcp:102902:51"/>was, or were had, made, com<g ref="char:EOLhyphen"/>mitted or done within the County wherein ſuch action bill, &amp;c. ſhall be laid, that then in every ſuch caſe the Jury which ſhall try the ſame ſhall find the defendant in e<g ref="char:EOLhyphen"/>very ſuch action, &amp;c. not guilty, without having any regard or reſpect to any evi<g ref="char:EOLhyphen"/>dence given by the plaintiff therein, touching the treſpas, &amp;c. for which the ſame acti<g ref="char:EOLhyphen"/>on &amp;c. is or ſhall be brought. And if the verdict ſhall paſſe with the defendant, in any ſuch action, &amp;c. or the plain<g ref="char:EOLhyphen"/>tiff therein become non<g ref="char:EOLhyphen"/>ſuit, or ſuffer diſcontinuance thereof, that in every ſuch caſe the Juſtices or Juſtice, &amp;c. before whom the ſaid matter ſhall be tried, ſhall allow unto the defendant his or their double coſts, which
+<pb n="98" facs="tcp:102902:52"/>he or they ſhall have ſuſtain<g ref="char:EOLhyphen"/>ed by reaſon of ſuch wrong<g ref="char:EOLhyphen"/>full vexation in defence of the ſaid action, &amp;c. for which the ſaid defendant ſhall have like remedy as in other caſes, where coſts by the Laws of this Realm are given to the defendants.</p>
+            </div>
+            <div type="part">
+               <pb n="99" facs="tcp:102902:52"/>
+               <head>Directions touching the office and duty of the Overſeers for the Poore.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Churchwardens of every pariſh,
+<note place="margin">Overſeers choſen.</note>
+                  <note place="margin">
+                     <hi>St.</hi> 43. <hi>Eliſ. cap.</hi> 2.</note> and two or more ſubſtantiall houſeholders there ſhall be nominated and appointed yearly in Eaſter week, or within one moneth after Ea<g ref="char:EOLhyphen"/>ſter, under the hands and ſeals of two or more Juſtices of the peace in the ſame County, &amp;c. to be Overſeers for the poore of the ſame pa<g ref="char:EOLhyphen"/>riſh; and they or the greater part of them ſhall take order from time to time by and with the conſent of the ſaid Juſtices for ſetting to work of the children of all ſuch
+<pb n="100" facs="tcp:102902:53"/>whoſe parents ſhall not by the ſaid Churchwardens and Overſeers, or the greater part of them,
+<note place="margin">Their of<g ref="char:EOLhyphen"/>fice.</note> be thought able to keep and maintain their chil<g ref="char:EOLhyphen"/>dren;
+<note place="margin">To ſet poore to vvork.</note> and alſo for ſetting to work of all ſuch perſons ma<g ref="char:EOLhyphen"/>ried or unmaried having no means to maintain them, or having no ordinary and day<g ref="char:EOLhyphen"/>ly trade of life to get their li<g ref="char:EOLhyphen"/>ving by:
+<note place="margin">To raiſe. ſummes of money.</note> And alſo to raiſe weekly, or otherwiſe, by tax<g ref="char:EOLhyphen"/>ation of every inhabitant, Parſon, Vicar, and other, and of every occupier of lands,
+<note place="margin">Who are to be taxed, and for vvhat.</note> houſes, tithes impropriate, or propriation of tithes, cole mines, or ſalable under<g ref="char:EOLhyphen"/>woods in the ſaid pariſh, in ſuch competent ſumme and ſummes of money as they ſhall think fit for the rayſing of a convenient ſtock of flax, hemp, wool, thread, yarn,
+<pb n="101" facs="tcp:102902:53"/>and other neceſſary ware and ſtuff to ſet the poore on work.
+<note place="margin">Materialls to ſet the poore on vvork.</note> And alſo to raiſe com<g ref="char:EOLhyphen"/>petent ſummes of money for and towards the neceſſary relief of the lame, impotent,
+<note place="margin">To relieve the impo<g ref="char:EOLhyphen"/>tent.</note> old, blind, and ſuch other a<g ref="char:EOLhyphen"/>mong them, being poore and not able to work: And alſo for the putting out of ſuch children to be apprentices,
+<note place="margin">To put out apprenti<g ref="char:EOLhyphen"/>ces, &amp;c.</note> to be gathered out of the ſame pariſh according to the abili<g ref="char:EOLhyphen"/>ty of the ſaid pariſh, and to do and execute all other things as well for the diſpo<g ref="char:EOLhyphen"/>ſing of the ſaid ſtock, as o<g ref="char:EOLhyphen"/>therwiſe concerning the pre<g ref="char:EOLhyphen"/>miſes, as to them ſhall ſeem convenient.</p>
+               <p>In which words you may perceive that the office and duty of theſe overſeers for the poore chiefly conſiſteth in ſetting the poore on work,
+<pb n="102" facs="tcp:102902:54"/>in relieving the impotent, and in putting out poore chil<g ref="char:EOLhyphen"/>dren to be apprentices, and in making of rates for theſe purpoſes: and firſt touching Rates I will obſerve theſe three particulars,
+<q>
+                     <l>The making of Rates.</l>
+                     <l>The levying of Rates.</l>
+                     <l>The diſpoſing of Rates.</l>
+                  </q>
+               </p>
+               <p>In the rayſing or making of rates theſe three things are moſt conſiderable.</p>
+               <p n="1">1. The perſons who are to make the rates.</p>
+               <p n="2">2. The circumſtances ob<g ref="char:EOLhyphen"/>ſervable in the making of them.</p>
+               <p n="3">3. The perſons and eſtates that are chargeable to them.</p>
+               <p>Firſt the perſons that are to make them, are the Churchwardens, and other the Overſeers of the poore, or the greater part of them,
+<pb n="103" facs="tcp:102902:54"/>with the conſent of the Juſti<g ref="char:EOLhyphen"/>ces, &amp;c. particularly appoint<g ref="char:EOLhyphen"/>ed and aſſigned by the ſaid ſtatute to raiſe rates for the purpoſe aforeſaid, and doubt<g ref="char:EOLhyphen"/>leſſe warrantably may do the ſame without the aſſiſtance and allowance of the other pariſhioners, yet for the a<g ref="char:EOLhyphen"/>voiding of all exception theſe officers ſhall do well to give publick notice to all, or ſo many of the ſaid pariſhioners as will aſſemble to be preſent at the making of them.</p>
+               <p n="2">2. The circumſtances to be obſerved in the making of rates, theſe rules may be con<g ref="char:EOLhyphen"/>ſidered.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt that they be compe<g ref="char:EOLhyphen"/>tent and proportionable<g ref="char:punc">▪</g> competent in regard of the ability of the pariſh, and of the occaſion for which they are raiſed; proportionable in
+<pb n="104" facs="tcp:102902:55"/>regard of the perſons and eſtates that are to contribute unto them.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Experience hath found it the beſt, ſureſt, and moſt qui<g ref="char:EOLhyphen"/>et way of rating of land by the quantity or content of acres, and not by the yearly rent, value or quality thereof; to wit, arable to be rated with arable, paſture with pa<g ref="char:EOLhyphen"/>ſture, meadow with meadow (in the ſame town) having reſpect to the quality of the two laſt, in rating them dou<g ref="char:EOLhyphen"/>ble with the arable, or more or leſſe according to the con<g ref="char:EOLhyphen"/>dition thereof.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Dwelling-houſes are not to be rated which ſerve onely to ſleep in, and in Countrey towns and villages yield little or no rent at all, but ſerve onely for helps and ad<g ref="char:EOLhyphen"/>jument for the better main<g ref="char:EOLhyphen"/>tenance
+<pb n="105" facs="tcp:102902:55"/>and diſpoſing of lands belonging to them.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> He that occupieth in his own hands lands lying in ſe<g ref="char:EOLhyphen"/>verall pariſhes is chargeable in every pariſh proportiona<g ref="char:EOLhyphen"/>bly for his land there.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> The farmer ſhall be rated for the land he occupieth, and not the leaſour or land<g ref="char:EOLhyphen"/>lord.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> A man ſhall not be rated for his farm-rents; for that the farmer or occupier of the land is charged for the ſame land, whether the rate be made by land or ſtock.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> By goods in moſt caſes a man may be rated as well as by land, but ſeldome by both, unleſſe for the poore,
+<note place="margin">
+                     <hi>N. Re<g ref="char:EOLhyphen"/>ſol.</hi> 18.</note> for which the land is to be taxed in the firſt place equally and indifferently, with an additi<g ref="char:EOLhyphen"/>on for the viſible ability of
+<pb n="106" facs="tcp:102902:56"/>the party according to good diſcretion, but the common cuſtome is that he that hath both lands and goods is charged onely by the beſt of them.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> In the ſame rate one man may be rated by his land and another by his goods.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/> Where a man is taxed by his goods, it ſeemeth reaſona<g ref="char:EOLhyphen"/>ble that ſuch goods be rated after the valuation of lands to be purchaſed, <hi>ſc.</hi> one hun<g ref="char:EOLhyphen"/>dred pounds in ſtock or goods after five or ſix pound a year in lands.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> Where a man is charged by goods they muſt be ſuch as the party charged is cer<g ref="char:EOLhyphen"/>tainly known to have within that town at the time of the rate-making.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> The third and laſt thing obſervable in the making of
+<pb n="107" facs="tcp:102902:56"/>rates, are the perſons and e<g ref="char:EOLhyphen"/>ſtates that are liable unto them.</p>
+               <p>All manner of perſons as well ſpirituall as temporall,
+<note place="margin">All perſo and eſtate, liable to theſe rates.</note>
+                  <note place="margin">43. <hi>Eliſ. cap.</hi> 2.</note> of what eſtate, quality, con<g ref="char:EOLhyphen"/>dition or degree they be of, are hereby chargeable, unleſſe theſe officers, (as in good diſcretion they ought) ſpare the poore labourer, cottager, and hired that have no conſi<g ref="char:EOLhyphen"/>derable perſonall eſtate.</p>
+               <p>All eſtates, lands and poſ<g ref="char:EOLhyphen"/>ſeſſions whatſoever ſeem chargeable to theſe rates, which yield a clear and cer<g ref="char:EOLhyphen"/>tain profit,
+<note place="margin">† N. Reſol. 14.</note> as well the not guildable as the guildable, yea although the ſame be not annuall, as
+<note place="margin">† Old Re<g ref="char:EOLhyphen"/>ſol. 19.</note> under-woods, &amp;c. ſheep-walks, mills, dove<g ref="char:EOLhyphen"/>houſes, &amp;c. are in like manner chargeable; but herein conſi<g ref="char:EOLhyphen"/>deration is to be had of the
+<pb n="108" facs="tcp:102902:57"/>caſualties, charges and diſ<g ref="char:EOLhyphen"/>profits iſſuing out of them.</p>
+               <p>Parſonages or tithes are charged by the ſtatute to contribute to theſe rates,
+<note place="margin">Parſona<g ref="char:EOLhyphen"/>ges hovv chargea<g ref="char:EOLhyphen"/>ble.</note> and where they have the full tenth of the annuall profits ariſing out of the pariſh, there to pay the tenth; and ſo pro<g ref="char:EOLhyphen"/>portionably as they receive profit in that reſpect, paying alſo for their glebe-land rata<g ref="char:EOLhyphen"/>bly by the acre, as other men pay for theirs.</p>
+               <p>If a pariſhioner,
+<note place="margin">Bringers in of forrei<g ref="char:EOLhyphen"/>ners.</note> &amp;c. ſhall bring into the pariſh without the conſent of the pariſh a ſtranger of another pariſh, which is (or apparantly is like to be) burdenſome to the pariſh, ſuch perſon may be taxed to the charge of the rates for the poore there, not onely having reſpect to his ability or land he occupieth,
+<pb n="109" facs="tcp:102902:57"/>but according to the damage or danger he bringeth to the pariſh by his folly.</p>
+               <p>Secondly in the levying of rates theſe things may be ob<g ref="char:EOLhyphen"/>ſerved.
+<note place="margin">Levying of rates.</note>
+               </p>
+               <p n="1">1. <note place="margin">
+                     <hi>Diſtr. Saac.</hi> 51. <hi>H.</hi> 3 28. <hi>Ed.</hi> 1. <hi>c.</hi> 12.</note> What goods properly by the law are to be diſtrain<g ref="char:EOLhyphen"/>ed.</p>
+               <p n="2">2. Where and how long a diſtreſſe may be kept and de<g ref="char:EOLhyphen"/>tained.</p>
+               <p n="3">3. How and in what man<g ref="char:EOLhyphen"/>ner the ſame ſhall be appriſed and ſold.</p>
+               <p>No man ſhall be diſtrained by his beaſts which till his land, nor by his ſheep,
+<note place="margin">What goods are diſtrain<g ref="char:EOLhyphen"/>able.</note> neither a Tradeſman by his tools wherewith he getteth his li<g ref="char:EOLhyphen"/>ving, &amp;c. ſo long as any o<g ref="char:EOLhyphen"/>ther ſufficient diſtreſſe may be had, except it be impounding of beaſts which a man finds damage feſant, according to
+<pb n="110" facs="tcp:102902:58"/>the cuſtome of the Realm.</p>
+               <p>
+                  <note place="margin">Diſtreſſe ſhall be reaſonable.</note>
+                  <note place="margin">51. <hi>H.</hi> 3. <hi>cap.</hi> 1, 4.52. <hi>H.</hi> 3. <hi>c.</hi> 1.2, 3.28. <hi>Ed.</hi> 1. <hi>c.</hi> 12.</note> Diſtreſſes ſhall be reaſona<g ref="char:EOLhyphen"/>ble according to the quanti<g ref="char:EOLhyphen"/>ty of the debt or damage, and not grievous, and he that ta<g ref="char:EOLhyphen"/>keth unreaſonable and exceſ<g ref="char:EOLhyphen"/>ſive diſtreſſes ſhall be amer<g ref="char:EOLhyphen"/>ced.</p>
+               <p>No diſtreſſe ſhall be driven out of the County where it was taken,
+<note place="margin">Where di<g ref="char:EOLhyphen"/>ſtreſſe ſhall be im<g ref="char:EOLhyphen"/>pounded.</note>
+                  <note place="margin">51. <hi>Hen.</hi> 3. <hi>c.</hi> 52. <hi>Hen.</hi> 3. <hi>cap.</hi> 4.3. <hi>Ed.</hi> 1. <hi>cap.</hi> 16.9. <hi>Ed.</hi> 2. <hi>cap.</hi> 9.</note> nor out of the hundred, rape, wapentake, or lath, except it be to a pound overt within the ſame ſhire, being not above three miles diſtant from the place where it was taken:
+<note place="margin">1. <hi>&amp;</hi> 2. <hi>Phil. &amp; Mar. cap.</hi> 12.</note> none ſhall impound in ſeverall places goods diſtreined for any cauſe at one time, nor ſhall take above foure pence for the impounding of any one whole diſtreſſe, nor ſhall di<g ref="char:EOLhyphen"/>ſtrein out of their fee, or in the Kings high-way or com<g ref="char:EOLhyphen"/>mon
+<pb n="111" facs="tcp:102902:58"/>ſtreet, but the Kings of<g ref="char:EOLhyphen"/>ficers onely having ſpeciall authority ſo to do; nor in the fees of the Church, nor ſhall take wrongfull diſtreſſe, or without authority.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Diſtr. Scac.</hi> 52. <hi>H.</hi> 3.</note> The owner without di<g ref="char:EOLhyphen"/>ſturbance or paying any thing therefore, may give his beaſts meat of his own, while they remain in a pound overt.</p>
+               <p>If a diſtreſſe be taken of any houſhold-ſtuff or the like, that may take hurt in a pound overt, theſe officers may keep and detain the ſame in their own hands till ſatisfa<g ref="char:EOLhyphen"/>ction made.</p>
+               <p>By the ancient law,
+<note place="margin">
+                     <hi>Diſtr. Scac.</hi> 52, <hi>H.</hi> 3.</note>
+                  <note place="margin">How long diſtreſſe may be kept.</note> no cattel nor other diſtreſſe ta<g ref="char:EOLhyphen"/>ken for the Kings debt, nor for any other thing was to be ſold or given within fifteen dayes after the taking there<g ref="char:EOLhyphen"/>of. But this Statute of the
+<pb n="112" facs="tcp:102902:59"/>43. of <hi>Eliſ.</hi>
+                  <note place="margin">43. <hi>Eliſ. cap.</hi> 2.</note> limiteth no time for detaining the diſtreſſe be<g ref="char:EOLhyphen"/>fore ſale, as in ſome other ſta<g ref="char:EOLhyphen"/>tutes you may obſerve it doth, and muſt follow the di<g ref="char:EOLhyphen"/>rection thereof: theſe officers upon refuſall of the owner to redeem it may inſtantly ſell the ſame.</p>
+               <p>A diſtreſſe thus taken and detained,
+<note place="margin">Diſtreſſe hovv ap<g ref="char:EOLhyphen"/>priſed and ſold.</note> theſe officers (upon the owners refuſall, or neg<g ref="char:EOLhyphen"/>lect within ſome reaſonable time to redeem it) ſhall pro<g ref="char:EOLhyphen"/>cure two or more honeſt ſub<g ref="char:EOLhyphen"/>ſtantiall and indifferent per<g ref="char:EOLhyphen"/>ſons to appriſe and value the ſame, and then upon re<g ref="char:EOLhyphen"/>fuſall of the owner to redeem it, may make preſent ſale thereof according to the ſaid appriſement, rendring to the owner the overplus that ſhall remain upon the ſaid ſale.</p>
+               <p>The principall work of
+<pb n="113" facs="tcp:102902:59"/>theſe officers is the well or<g ref="char:EOLhyphen"/>dering and diſpoſing of theſe rates, which eſpecially tend<g ref="char:EOLhyphen"/>eth to theſe ends.</p>
+               <p n="1">1. To ſet the poore on work.</p>
+               <p n="2">2. To relieve the impo<g ref="char:EOLhyphen"/>tent.</p>
+               <p n="3">3. To put forth apprenti<g ref="char:EOLhyphen"/>ces.</p>
+               <p>In the ſetting the poore on work conſideration may be had,</p>
+               <p n="1">1. Who are to be ſet on work.</p>
+               <p n="2">2. By whom they are to be ſet on work.</p>
+               <p n="3">3. How and in what man<g ref="char:EOLhyphen"/>ner they are to be imployed.</p>
+               <p>
+                  <note place="margin">
+                     <hi>St.</hi> 43. <hi>Eliſ. cap.</hi> 2.</note>
+                  <note place="margin">Who ſhall be ſet on vvork.</note> Firſt and principally it re<g ref="char:EOLhyphen"/>gardeth the training up of children by a timely educati<g ref="char:EOLhyphen"/>on and imployment of them, and to acquaint them with labour, thereby to prepare
+<pb n="114" facs="tcp:102902:60"/>and make them fit to be ap<g ref="char:EOLhyphen"/>prentices to husbandry and trades, whereby they ſhall not onely be able to main<g ref="char:EOLhyphen"/>tain themſelves but become profitable members of the common-wealth. In like manner all other perſons as well men as women, maried or unmaried, young or old, that want means and have no ordinary and dayly trade of life to get their living by, are by this ſtatute to be ſet on work, and ſuch as have trades if they want means to ſet up, are to be helped by theſe of<g ref="char:EOLhyphen"/>ficers out of the town ſtock, whoſe office and duty it is, not onely to ſet all thoſe on work which are willing and ſeek unto them for work, but thoſe eſpecially that live idly and ſhun labour.</p>
+               <p>The Churchwardens and
+<pb n="115" facs="tcp:102902:60"/>Overſeers for the poore,
+<note place="margin">43. <hi>Eliſ. cap.</hi> 2.3. <hi>Cha. cap.</hi> 4.</note>
+                  <note place="margin">Who ſhall ſet the poore on vvork.</note> or the greater part of them are not onely by this Statute 44. <hi>Eliſ.</hi> ſpecially inabled to ſet the poore on work, but are alſo further inabled and au<g ref="char:EOLhyphen"/>thoriſed by that of King <hi>Charles,</hi> (with the conſent of the Juſtices of peace of the ſame Diviſion) to ſet up, uſe and occupy any trade, my<g ref="char:EOLhyphen"/>ſtery or occupation for the ſetting on work and better relief of the poore of the ſame pariſh, town or place; and it were much to be wiſh<g ref="char:EOLhyphen"/>ed that this Statute were put in execution with us, as it is in ſome parts of this king<g ref="char:EOLhyphen"/>dome, whereby the common<g ref="char:EOLhyphen"/>wealth may receive profit, the poore relief, the ſeverall town-ſhips eaſe, and God in all may have the glory</p>
+               <p>This ſtatute ordaineth, that
+<pb n="116" facs="tcp:102902:61"/>there be a convenient ſtock of flax,
+<note place="margin">Where vvith the poore are to be ſet on vvork.</note> hemp, wool, thread,
+<note place="margin">43. <hi>Eliſ. cap.</hi> 2.</note> yarn, &amp;c. provided in every pariſh to ſet the poore on work: but theſe officers are not preciſely tyed to the very letter concerning the materi<g ref="char:EOLhyphen"/>als therein me<g ref="char:cmbAbbrStroke">̄</g>tioned, where<g ref="char:EOLhyphen"/>with the poore are to be ſet on work, as may be obſerved by theſe words, and other neceſſary ware and ſtuffe; for all countreys do not afford and produce one &amp; the ſame things, neither are all perſons apt and fit for the ſame work, &amp; therefore (without doubt) the ſtatute herein relyeth much upon the diſcretion of theſe officers, together with the direction of the Juſtices of the peace.</p>
+               <p>The women and children may be imployed in ſpinning and carding of woollen and
+<pb n="117" facs="tcp:102902:61"/>linen, in knitting &amp;c. gather<g ref="char:EOLhyphen"/>ing of ſtones to mend the high-wayes, and the like. The men and thoſe of able bo<g ref="char:EOLhyphen"/>dies in beating of hemp, working of yarn, or ſuch like. And in Countreys where theſe commodities are not to be had, publick works may be deviſed by theſe officers for the good of their towns, and the common-wealth; as repairing of High-wayes, Cawſies, Bridges, Banks, drayning of fennes, mooriſh grounds, caſting up or ſcour<g ref="char:EOLhyphen"/>ing of ditches, raiſing of banks, and the like, all which are profitable and commend<g ref="char:EOLhyphen"/>able works, and are agreea<g ref="char:EOLhyphen"/>ble to the ſtatute, and ſpeci<g ref="char:EOLhyphen"/>ally commanded and com<g ref="char:EOLhyphen"/>mended by his Majeſtie.</p>
+               <p>And here by the way I hold it not unfit to remove
+<pb n="118" facs="tcp:102902:62"/>this co<g ref="char:cmbAbbrStroke">̄</g>mon objection,
+<note place="margin">Loſſe of the town<g ref="char:EOLhyphen"/>ſtock a common objection.</note> which ſeemeth much to hinder and diſcourage theſe officers from a willing and chearfull pro<g ref="char:EOLhyphen"/>ceeding in this courſe, name<g ref="char:EOLhyphen"/>ly, the uſuall loſſe and decay (as is pretended) of the town<g ref="char:EOLhyphen"/>ſtocks. To this it may be an<g ref="char:EOLhyphen"/>ſwered, that whatſoever the loſſe is, it is farre ſhort of the benefit, that both that parti<g ref="char:EOLhyphen"/>cular town and the whole County receiveth by their imployment; beſides if theſe officers will be faithfull and diligent to buy at the beſt hand ſuch commodities as be good, and weigh them in and out, and look that the work be well and orderly done, there will be the leſſe loſſe. And if they find the ſaid ſtuff diminiſhed beyond the ordi<g ref="char:EOLhyphen"/>nary loſſe, or be otherwiſe miſuſed or evily wrought,
+<pb n="119" facs="tcp:102902:62"/>they may caſt it upon the hands of ſuch as have ſo leſſe<g ref="char:EOLhyphen"/>ned or abuſed it, and the va<g ref="char:EOLhyphen"/>lue thereof may be levyed upon their goods, where they be able; or not having wherewithall to anſwer they may be puniſhed or ſent to the houſe of correction, for an example to others. And if theſe officers fail to do as is ſpecified, they are worthy to bear the whole loſſe them<g ref="char:EOLhyphen"/>ſelves. Nor is it ſufficient that theſe officers make return of the town ſtock once in the year onely, (as the common courſe is) but they ought to make return thereof once in every quarter of the year. And whereas it is ſometimes objected, that there are no poore to ſet on work, which for the moſt part is otherwiſe yet being ſo the ſtock ought
+<pb n="120" facs="tcp:102902:63"/>not to lie idly, but may be imployed in buying of bread-corn, fuell, or ſuch like at the beſt hand for the benefit of the poore.</p>
+               <p>The ſecond generall work of theſe officers in the diſpo<g ref="char:EOLhyphen"/>ſing of rates, is to relieve the impotent.</p>
+               <p>And herein conſideration may be had of three ſorts of poore,
+<note place="margin">Impotent poore to be relieved.</note> and how every of them ſhall be relieved.</p>
+               <p n="1">1. <note place="margin">Three ſorts of impo<g ref="char:EOLhyphen"/>tent poore.</note> Impotent poore by in<g ref="char:EOLhyphen"/>firmitie. Fatherleſſe children educated; Aged, blind, lame, diſeaſed perſons relieved and harboured.</p>
+               <p n="2">2. Impotent poore by ca<g ref="char:EOLhyphen"/>ſuality. Wounded ſouldiers, decayed houſholders, viſited and ſick perſons relieved.</p>
+               <p n="3">3. Impotent poore by un<g ref="char:EOLhyphen"/>thriftineſſe. Riotous ſpend<g ref="char:EOLhyphen"/>ers, vagabond loyterers, idle
+<pb n="121" facs="tcp:102902:63"/>ſtrumpets ſparingly relieved.</p>
+               <p>But theſe laſt ſort being of able bodies are to be ſent to the houſe of correction there to be ſet on work, and duly puniſhed.</p>
+               <p>His Majeſty hath com<g ref="char:EOLhyphen"/>manded that the weekly tax<g ref="char:EOLhyphen"/>ations for the relief of the poore and other purpoſes,
+<note place="margin">Taxations raiſed in time of ſcarcity.</note> mentioned in the Statute of 43.
+<note place="margin">
+                     <hi>Car. Re. Direct.</hi> 5.</note> 
+                  <hi>Eliſ.</hi> be in times of ſcarci<g ref="char:EOLhyphen"/>tie raiſed to higher rates in every pariſh then in times be<g ref="char:EOLhyphen"/>fore were uſed, and contribu<g ref="char:EOLhyphen"/>tions had from other pariſhes to help the weaker pariſhes;
+<note place="margin">Relief from other pariſhes.</note> eſpecially from thoſe places where depopulations have been ſome good contributi<g ref="char:EOLhyphen"/>ons to come for help of other pariſhes. And where any mo<g ref="char:EOLhyphen"/>ney or ſtock hath or ſhall be given to the relief of the poore of any pariſh,
+<note place="margin">Private gifts not to leſſen pub<g ref="char:EOLhyphen"/>lick rates.</note> ſuch gift
+<pb n="122" facs="tcp:102902:64"/>to be no occaſion of leſſening the rates of the pariſh.</p>
+               <p>The laſt, but not the leaſt, generall dutie required by this Statute of theſe Officers,
+<note place="margin">Apprenti<g ref="char:EOLhyphen"/>ces.</note> is the putting out of poore children to be apprentices, wherein may be obſerved theſe particulars.</p>
+               <p n="1">1. Who ſhall be put forth apprentice.</p>
+               <p n="2">2. When and how long they ſhall be placed out ap<g ref="char:EOLhyphen"/>prentice.</p>
+               <p n="3">3. By whom, and to whom, they ſhall be put forth apprentice.</p>
+               <p>Firſt,
+<note place="margin">What chil<g ref="char:EOLhyphen"/>dren ſhall be put forth ap<g ref="char:EOLhyphen"/>prentices.</note> it is not meant by this Statute, that the children of thoſe onely that receive col<g ref="char:EOLhyphen"/>lection (as ſome have imagi<g ref="char:EOLhyphen"/>ned) ſhall be put forth ap<g ref="char:EOLhyphen"/>prentices, or ſuch as are de<g ref="char:EOLhyphen"/>ſtitute of parents or friends, but likewiſe the children of
+<pb n="123" facs="tcp:102902:64"/>all thoſe that are poore and overburdened with children; and thoſe whoſe labours are not ſufficient to maintain them, or have not means to ſupport their charge, as well in ſickneſſe as in health: but as the Statute hath it, the children of all ſuch, whoſe parents ſhall not by the Offi<g ref="char:EOLhyphen"/>cers or the greater part of them, be thought able to keep and maintain their chil<g ref="char:EOLhyphen"/>dren.</p>
+               <p>Secondly,
+<note place="margin">At vvhat age they may be put forth.</note> at what age children of both ſexes ſhall be put forth apprentice, this Statute giveth no ſpeciall direction, but leaveth it wholly to the diſcretion of the Officers and Juſtices, but ſo as none ſhall be put ap<g ref="char:EOLhyphen"/>prentice before they be able to do ſome ſervice, nor after they are of able bodies, and
+<pb n="124" facs="tcp:102902:65"/>can do good ſervice for their parents,
+<note place="margin">5. <hi>Eliſ. cap.</hi> 4.43. <hi>Eliſ. cap.</hi> 4.39. <hi>Eliſ. cap.</hi> 12.1. <hi>Jac. cap.</hi> 6.7. <hi>Jac. cap.</hi> 3.</note> or may have compe<g ref="char:EOLhyphen"/>tent wages from others to maintain themſelves: and this ſeemeth to be betwixt the age of tenne and ſixteen; but yet by conſent, or in ſome ſpeciall caſes, they may be put forth ſooner or later. See for this the Statutes; 43. <hi>Eliſ.</hi> 5. <hi>Eliſ.</hi> 39. <hi>Eliſ.</hi> 1. <hi>Jac.</hi> 7. <hi>Jac.</hi>
+               </p>
+               <p>
+                  <note place="margin">How long they ſhall continue.</note>
+                  <note place="margin">43. <hi>Eli. cap.</hi> 2.</note> A man child ſhall be bound apprentice untill he come to the age of foure and twentie years; a woman child, untill ſhe come to the age of one and twentie years, or ma<g ref="char:EOLhyphen"/>riage.</p>
+               <p>And none are compella<g ref="char:EOLhyphen"/>ble to be bound apprentices,
+<note place="margin">5. <hi>Eliſ. cap.</hi> 4.</note> that are one and twentie years old or above.</p>
+               <p>Thirdly, the Churchwar<g ref="char:EOLhyphen"/>dens and Overſeers for the
+<pb n="125" facs="tcp:102902:65"/>poore,
+<note place="margin">Who ſhall put forth apprentices</note> or the greater part of them, are not onely ſpecially inabled by this ſtatute to raiſe competent ſummes of money for the putting out of appren<g ref="char:EOLhyphen"/>tices, but may alſo bind any ſuch children as aforeſaid to be apprentices, where they ſhall ſee convenient.</p>
+               <p>By which ſeverall bran<g ref="char:EOLhyphen"/>ches of that Statute,
+<note place="margin">43. <hi>Eliſ. cap.</hi> 2.</note>
+                  <note place="margin">Two wayes of putting out of appren<g ref="char:EOLhyphen"/>tices.</note> there ſeemeth to be a twofold way of putting forth of apprenti<g ref="char:EOLhyphen"/>ces; the one by raiſing ſummes of money for the placing of them with men of trades, or in husbandry, as theſe officers and they can agree; but whe<g ref="char:EOLhyphen"/>ther they are compellable to take them without ſatisfacti<g ref="char:EOLhyphen"/>on given, ſeemeth doubtfull; but the children (without queſtion) may be enforced: and whoſoever ſhall refuſe to contribute to a rate made for
+<pb n="126" facs="tcp:102902:66"/>this purpoſe, theſe Officers, by warrant from the Juſtices, &amp;c. may levie the ſame by diſtreſſe and ſale of the goods of the party ſo refuſing.</p>
+               <p>The other way of putting forth apprentices (and war<g ref="char:EOLhyphen"/>ranted both by command and practice) is by putting them out without money to men of good abilitie, uſing Huſ<g ref="char:EOLhyphen"/>bandry or the like, who are thought compellable by the Statute to take them, and for refuſall may be bound to the Seſſions or Aſſiſes, there to be indicted or impriſoned for their contempt. If the Parents ſhall refuſe to ſuffer their children to be bound out ap<g ref="char:EOLhyphen"/>prentice, or ſhall intice them away being bound, they may be ſent to the houſe of Cor<g ref="char:EOLhyphen"/>rection, and ſo may the chil<g ref="char:EOLhyphen"/>dren refuſing.</p>
+               <pb n="127" facs="tcp:102902:66"/>
+               <p>I have known when the Juſtices have alſo injoyned the maſters to pay ſummes of money to their apprentices at the end of their term, and have inſerted the ſame as a covenant in their indentures; but whether this may be done without conſent or no I cannot determine; and it is to be done upon ſpeciall con<g ref="char:EOLhyphen"/>ſideration.</p>
+               <p>Every perſon,
+<note place="margin">
+                     <hi>N. Reſ.</hi> 3, 4.</note>
+                  <note place="margin">Who ſhall take ap<g ref="char:EOLhyphen"/>prentices.</note> as well Clergy-men as others, who by their calling and profeſſi<g ref="char:EOLhyphen"/>on, or manner of living en<g ref="char:EOLhyphen"/>tertaineth and muſt have uſe of other ſervants of the like qualitie, muſt entertain ſuch an apprentice; wherein diſ<g ref="char:EOLhyphen"/>cretion muſt be the guide, upon due conſideration of circumſtance.</p>
+               <p>And doubtleſſe every per<g ref="char:EOLhyphen"/>ſon of wealth and abilitie,
+<note place="margin">Who ſhall contribute.</note>
+                  <pb n="128" facs="tcp:102902:67"/>although he have no uſe of ſuch an apprentice, muſt contribute to the charge of putting forth ſuch apprenti<g ref="char:EOLhyphen"/>ces, as to other charges for the poore, or may be com<g ref="char:EOLhyphen"/>pelled to give a ſumme of money to help a weaker man in eſtate that ſhall take ſuch apprentice.</p>
+               <p>In the putting forth of theſe apprentices,
+<note place="margin">Conſidera<g ref="char:EOLhyphen"/>tions in putting out of appren<g ref="char:EOLhyphen"/>tice.</note> there muſt be ſpeciall regard had to theſe circumſtances: The Maſter, the Child, the Facul<g ref="char:EOLhyphen"/>tie, the Parents.</p>
+               <p n="1">1. The Maſter,
+<note place="margin">Maſter.</note> as well for his abilitie, as honeſtie; for otherwiſe by hard uſage, they may provoke their appren<g ref="char:EOLhyphen"/>tice to runne away.</p>
+               <p>Secondly,
+<note place="margin">Trade.</note> his trade and imployment, leaſt the ap<g ref="char:EOLhyphen"/>prentice waſte and conſume his time without learning
+<pb n="129" facs="tcp:102902:67"/>any thing and ſo be made worſe then at the firſt.</p>
+               <p n="3">3. The Children,
+<note place="margin">Children.</note> that they be put out while they be young and tractable, and be<g ref="char:EOLhyphen"/>fore they be corrupted with vice and idleneſſe, for then they will hardly keep their ſervice, or be held to labour.</p>
+               <p n="4">4. The Parents,
+<note place="margin">Parents.</note> to take away ſuch Children from them as are burdenſome, or brought up looſely and idlely.</p>
+               <p>Theſe Officers, or ſuch of them as ſhall not be let by ſickneſſe,
+<note place="margin">43. <hi>Eliſ. cap.</hi> 2.</note> or other juſt excuſe (to be allowed by two Juſti<g ref="char:EOLhyphen"/>ces of peace) ſhall meet toge<g ref="char:EOLhyphen"/>ther, at the leaſt once every moneth in the Church of the ſame pariſh, upon the Sunday in the afternoon, after divine ſervice, there to conſider of ſome good courſe to be ta<g ref="char:EOLhyphen"/>ken, and ſome meet order to
+<pb n="130" facs="tcp:102902:68"/>be ſet down in the premiſes, and ſhall within foure dayes after the end of their year, and after other Overſeers no<g ref="char:EOLhyphen"/>minated, make and yield up to two ſuch Juſtices a true and perfect account in wri<g ref="char:EOLhyphen"/>ting, ſubſcribed under their hands, of all ſummes of mo<g ref="char:EOLhyphen"/>ney by them received, or ra<g ref="char:EOLhyphen"/>ted and ſeſſed and not recei<g ref="char:EOLhyphen"/>ved, and alſo of ſuch ſtock as ſhall be in their hands or in the hands of the poore to work, and of all other things concerning their ſaid office. And ſuch ſumme or ſummes of money as ſhall be in their hands, they ſhall pay &amp; deliver over to the Churchwardens and Overſeers newly nomina<g ref="char:EOLhyphen"/>ted and appointed, upon pain that every one of them ab<g ref="char:EOLhyphen"/>ſenting themſelves without lawfull cauſe, as aforeſaid,
+<pb n="131" facs="tcp:102902:68"/>from ſuch monethly meeting for the purpoſe aforeſaid, or being otherwiſe negligent in their office, or in the execu<g ref="char:EOLhyphen"/>tion of the orders aforeſaid,
+<note place="margin">Forfeiture.</note> being made by and with the conſent of the ſaid Juſtices of peace, or any two of them, to forfeit for every ſuch default of abſence or negligence twenty ſhillings.</p>
+               <p>Theſe officers at the end of their year ſhall yield an account unto the Juſtices,</p>
+               <p n="1">1. Of all ſummes of money by them recieved, or rated and not received.</p>
+               <p n="2">2. Of all ſuch ſtock of ware and ſtuff, as they or any of the poore have in their hands to work, and how oft they have returned the ſame.</p>
+               <p n="3">3. Whether they have aſ<g ref="char:EOLhyphen"/>ſeſſed the inhabitants and oc<g ref="char:EOLhyphen"/>cupiers of lands, &amp;c. in their
+<pb n="132" facs="tcp:102902:69"/>pariſh, to wit, all ſuch as are of abilitie, and with indiffe<g ref="char:EOLhyphen"/>rencie.</p>
+               <p n="4">4. Whether they have en<g ref="char:EOLhyphen"/>deavoured to levy and ga<g ref="char:EOLhyphen"/>ther ſuch aſſeſſements.</p>
+               <p n="5">5. Whether they have diſtri<g ref="char:EOLhyphen"/>buted the ſame with indiffe<g ref="char:EOLhyphen"/>rency and without partiality.</p>
+               <p n="6">6. What poore they have ſet on work, and in what manner, and whom they have relieved by contribution.</p>
+               <p n="7">7. What apprentices they have put out according to the Statute, and whether all thoſe that have been put forth do remain and abide with their maſters, if not, in whoſe default the ſame is.</p>
+               <p n="8">8. Whether they have ſuf<g ref="char:EOLhyphen"/>fered their poore to wander and beg, either within their own pariſh or elſewhere.</p>
+               <p n="9">9. Whether they have
+<pb n="133" facs="tcp:102902:69"/>monethly met together to conſider of theſe things ac<g ref="char:EOLhyphen"/>cording to the Statute.</p>
+               <p n="10">10. Whether they have duly executed the precepts of the Juſtices, and levied the ſeve<g ref="char:EOLhyphen"/>rall forfeitures appointed by the Statute, &amp;c.</p>
+               <p>And if they be found re<g ref="char:EOLhyphen"/>miſſe and negligent in any of the premiſes, &amp;c. they ſhall forfeit twenty ſhillings for every default.</p>
+               <p>And if the Churchwar<g ref="char:EOLhyphen"/>dens and other the Overſeers of the poore, or any of them,
+<note place="margin">Refuſe to account.</note> ſhall refuſe to make and yield up a true and perfect account to the ſaid Juſtices, the ſaid Juſtices may commit them to the common gaol untill they ſhall willingly do the ſame.</p>
+               <p>Or having accounted,
+<note place="margin">Refuſe to pay.</note> ſhall refuſe or neglect to pay the
+<pb n="134" facs="tcp:102902:70"/>ſame, the ſaid Juſtices by their warrant may cauſe the ſame to be levyed upon their goods by diſtreſſe and ſale thereof; and in defect of ſuch diſtreſſe may commit him or them to the common gaol, there to remain without bail or mainpriſe untill payment be made of the ſaid ſumme, arrerages and ſtock, &amp;c.</p>
+               <p>
+                  <note place="margin">Build hou<g ref="char:EOLhyphen"/>ſes and place in<g ref="char:EOLhyphen"/>mates.</note>
+                  <note place="margin">43. <hi>Eliſ. cap.</hi> 2.</note> Theſe officers or the great<g ref="char:EOLhyphen"/>er part of them by leave of the Lord or Lords of the Mannor, whereof any waſt or common within their pa<g ref="char:EOLhyphen"/>riſh is or ſhall be parcell, and upon agreement before with him or them made in wri<g ref="char:EOLhyphen"/>ting under the hand and ſeal of the ſaid Lord or Lords, or otherwiſe according to an order to be ſet down by the Juſtices of the peace of the ſaid County at their generall
+<pb n="135" facs="tcp:102902:70"/>quarter-ſeſſions, by like leave and agreement of the ſaid Lord or Lords in writing un<g ref="char:EOLhyphen"/>der his or their hands and ſeals may erect, build, and ſet up in fit and convenient pla<g ref="char:EOLhyphen"/>ces of habitation, in ſuch waſt and common (at the generall charge of the Pariſh, or other<g ref="char:EOLhyphen"/>wiſe of the Hundred or County to be taxed, rated and gathered as aforeſaid) convenient houſes of dwel<g ref="char:EOLhyphen"/>ling for the ſaid impotent poore, and alſo to place In<g ref="char:EOLhyphen"/>mates, or more families then one in one houſe or cottage, which cottage and place for Inmates ſhall not at any time after be uſed or imployed to or for any other habitation but onely for the impotent and poore of the ſame pariſh, that ſhall be placed from time to time by the Church<g ref="char:EOLhyphen"/>wardens
+<pb n="136" facs="tcp:102902:71"/>and Overſeers of the poore of the ſame pariſh, or the moſt part of them up<g ref="char:EOLhyphen"/>on the pains and forfeitures contained in the ſtatute made in the one and thirtieth yeare of Queen <hi>Eliſabeth.</hi>
+               </p>
+               <p>CHurch wardens of pariſh<g ref="char:EOLhyphen"/>es be taken (in favour of the Church) to be for ſome purpoſes a manner of corpo<g ref="char:EOLhyphen"/>ration at the common Law,
+<note place="margin">Office of Church<g ref="char:EOLhyphen"/>wardens by the com<g ref="char:EOLhyphen"/>mon law.</note> that is to ſay, perſons inabled by that name to take movea<g ref="char:EOLhyphen"/>ble goods or chattels of the Church, and to ſue and be ſu<g ref="char:EOLhyphen"/>ed at the law concerning ſuch goods, for the uſe and profit of their pariſh,
+<note place="margin">They may not waſt the Church goods.</note> and therefore they cannot give away, re<g ref="char:EOLhyphen"/>leaſe or waſt the goods of the Church, but are liable to be removed &amp; to be brought to an account for the ſame:
+<pb n="137" facs="tcp:102902:71"/>for as touching any eſtate in lands,
+<note place="margin">They have not to do with lands.</note> or the profit of any lands, Churchwardens have not to meddle at all; inſo<g ref="char:EOLhyphen"/>much that if the walls, win<g ref="char:EOLhyphen"/>dows, or doores of the Church be broken, or the trees in the Church-yard be cut down, or the graſſe therof be eaten up, then the Parſon or Vicar and not the Church<g ref="char:EOLhyphen"/>wardens ſhall have the action for it, becauſe Churchwar<g ref="char:EOLhyphen"/>dens are not by law allowed to be a corporation for any other thing then for movea<g ref="char:EOLhyphen"/>ble goods onely.</p>
+               <p>Laſtly, ſome ſtatutes there are that do concern them: as namely, of the 1. of <hi>Eliſ.</hi> c. 2.
+<note place="margin">Repair to the Church.</note> &amp; the 3. of K. <hi>Ja.</hi> c. 4. for ab<g ref="char:EOLhyphen"/>ſence from Church, and the levying of the 12. pence for<g ref="char:EOLhyphen"/>feited by diſtreſſe and ſale, to the uſe of the poore of the pariſh.</p>
+               <pb n="138" facs="tcp:102902:72"/>
+               <p>Of the 2.
+<note place="margin">High<g ref="char:EOLhyphen"/>vvayes.</note> and 3. of <hi>Phil.</hi> &amp; <hi>Mar.</hi> c. 8. and the 5. of <hi>Eliſ.</hi> c. 13. for the chuſing of Sur<g ref="char:EOLhyphen"/>veyers of the High-wayes, on pain of twenty ſhillings: See more hereof in the office of Surveyers.</p>
+               <p>Of the 5. of <hi>Eliſ.</hi> c. 5. for eating fleſh in lent,
+<note place="margin">Fleſh in Lent.</note> and levy<g ref="char:EOLhyphen"/>ing the third part of the for<g ref="char:EOLhyphen"/>feitures after conviction, and to take notice of licence granted by the Miniſter to eat fleſh.</p>
+               <p>Of the 43.
+<note place="margin">Overſeers for the poore.</note> of <hi>Eliſ.</hi> c. 2. of being Overſeers for the poore See the office of Overſeers for the poore.</p>
+               <p>The 43.
+<note place="margin">Money for priſoners and ſoul<g ref="char:EOLhyphen"/>diers.</note> of <hi>Eliſ.</hi> c. 3. for the raiſing and paying of mo<g ref="char:EOLhyphen"/>ney for the relief of lame ſouldiers, and priſoners of the Marſhalſies and gaol of the County, and the penalty of twenty ſhillings for their default.</p>
+               <pb n="139" facs="tcp:102902:72"/>
+               <p>The 1. <hi>Jac.</hi> c. 9. &amp;c.
+<note place="margin">Tipling in Alehouſes, &amp;c.</note> of the forfeiture of forty ſhil<g ref="char:EOLhyphen"/>lings for omitting their duty in levying the penalties of Inne-keepers and Alehouſe-keepers ſuffering tipling or other diſorder,
+<note place="margin">3. <hi>Car. cap.</hi> 3.</note> or ſelling ale or beere under the aſſiſe, &amp;c. or neglecting by twenty dayes to certifie the default of diſtreſſe in offenders a<g ref="char:EOLhyphen"/>gainſt this Act.</p>
+               <p>The 5. of <hi>Eliſ.</hi> c. 4.
+<note place="margin">Teſtimoni, all of a ſervant.</note> touch<g ref="char:EOLhyphen"/>ing the teſtimoniall of a ſer<g ref="char:EOLhyphen"/>vant.</p>
+               <p>Of the 35. of <hi>Eliſ.</hi> c. 1.
+<note place="margin">Refuſers to come to Church.</note> of giving notice to forbear to receive or keep any obſti<g ref="char:EOLhyphen"/>nately refuſing to come to Church.</p>
+               <p>Of the 3. of King <hi>Ja.</hi> c. 4.
+<note place="margin">Popiſh Ro<g ref="char:EOLhyphen"/>cuſants.</note> of preſenting the monethly abſence from Church of Po<g ref="char:EOLhyphen"/>piſh Recuſants, their penalty and reward.</p>
+               <pb n="140" facs="tcp:102902:73"/>
+               <p>The 23.
+<note place="margin">Deſtructi<g ref="char:EOLhyphen"/>on of game.</note> 
+                  <hi>Eliſ.</hi> c. 10. and 1. <hi>Jac.</hi> c. 17. of levying the for<g ref="char:EOLhyphen"/>feitures to the uſe of the poore, for deſtroying of the game of Pheſants, Par<g ref="char:EOLhyphen"/>tridge,
+<note place="margin">Priſoners.</note> &amp;c.</p>
+               <p>The 3. of K. <hi>Jam.</hi> c. 10. of raiſing money for conveying priſoners to the gaol.</p>
+            </div>
+            <div type="part">
+               <pb n="141" facs="tcp:102902:73"/>
+               <head>The Office and Duty of Surveyers for the a<g ref="char:EOLhyphen"/>mending of High<g ref="char:EOLhyphen"/>wayes.</head>
+               <p>
+                  <note place="margin">Surveyers ſhall be choſen.</note>
+                  <note place="margin">2. <hi>&amp;</hi> 3. <hi>Phil. &amp; Mar. cap.</hi> 8.5. <hi>Eliſ. cap.</hi> 13.29. <hi>Eliſ. cap.</hi> 5.</note> 
+                  <seg rend="decorInit">T</seg>He Conſtables and Churchwardens of e<g ref="char:EOLhyphen"/>very pariſh ſhall year<g ref="char:EOLhyphen"/>ly upon the Tueſday or Wed<g ref="char:EOLhyphen"/>neſday in Eaſter week call together a number of the pa<g ref="char:EOLhyphen"/>riſhioners, and then ſhall chuſe two honeſt perſons of the pariſh to be Surveyers for one year of the works for the amendment of the high<g ref="char:EOLhyphen"/>wayes in their pariſh leading to any market town; and ſhall then alſo name and appoint ſix dayes for the amending of the ſaid wayes, before the feaſt of Saint <hi>John Baptiſt</hi> then next following; and
+<pb n="142" facs="tcp:102902:74"/>ſhall openly in the Church the next Sunday after Eaſter give knowledge of the ſame ſix dayes,
+<note place="margin">Six dayes ſhall be ap<g ref="char:EOLhyphen"/>pointed.</note> and upon the ſaid dayes the pariſhioners ſhall endeavour themſelves to the amendment of the ſaid wayes upon pain of ſuch reaſonable fines and amercements as ſhall be thought meet by the Steward of the Leet,
+<note place="margin">Penalty for omitting it</note> or in his default by the Juſtices at their quarter Seſſions.</p>
+               <p>They ſhall take upon them the execution of their ſaid office upon pain of every of them making default to for<g ref="char:EOLhyphen"/>feit twenty ſhillings.
+<note place="margin">Forfeiture for not ex<g ref="char:EOLhyphen"/>ecuting.</note>
+                  <note place="margin">Their of<g ref="char:EOLhyphen"/>fice.</note>
+               </p>
+               <p>And the ſaid perſons ſo named have authority here<g ref="char:EOLhyphen"/>by to order and direct the perſons and carriages that ſhall be appointed for theſe works by their diſcretion.</p>
+               <p>Every perſon for every
+<pb n="143" facs="tcp:102902:74"/>plow-land in tillage or pa<g ref="char:EOLhyphen"/>ſture that he or ſhe ſhall oc<g ref="char:EOLhyphen"/>cupy in the ſame pariſh,
+<note place="margin">Pariſhio<g ref="char:EOLhyphen"/>ners hovv charged.</note> and every other perſon keeping there a draught or plow ſhall find and ſend at every day and place to be appointed for the amending of the wayes in that pariſh one wain or cart furniſhed after the cuſtome of the Countrey, with oxen, horſes or other cattel, and all other neceſſa<g ref="char:EOLhyphen"/>ries meet to carry things con<g ref="char:EOLhyphen"/>venient for that purpoſe, and alſo two able men with the ſame, upon pain of every draught making default ten ſhillings.</p>
+               <p>And every other houſe<g ref="char:EOLhyphen"/>holder, cottager, or labourer of that pariſh (having no plow or draught) able to la<g ref="char:EOLhyphen"/>bour, and being no hired ſer<g ref="char:EOLhyphen"/>vant by the yeare, ſhall by
+<pb n="144" facs="tcp:102902:75"/>themſelves or one ſufficient labourer for every of them, upon every of the ſaid ſix dayes, work and travel in the amendment of the ſaid High-wayes, upon pain of e<g ref="char:EOLhyphen"/>very perſon making default to forfeit for every day twelve pence.</p>
+               <p>
+                  <note place="margin">Charge of perſons taxed in the ſubſidy at five pound in goods.</note>
+                  <note place="margin">18. <hi>Eliſ. cap.</hi> 10.</note> Every perſon (except ſuch as dwell in the City of Lon<g ref="char:EOLhyphen"/>don) that ſhall be aſſeſſed to the payment of any ſubſidie to his Majeſty to five pound goods, or fourty ſhillings in lands or above, during the time he ſhall ſtand ſo aſſeſſed and not altered, and being none of the parties chargea<g ref="char:EOLhyphen"/>ble for the amendment of high-wayes by any former law, but as a cottager, ſhall find two able men yearly to labour in the high-wayes at ſuch dayes and time as by
+<pb n="145" facs="tcp:102902:75"/>the ſeverall ſtatutes are ap<g ref="char:EOLhyphen"/>pointed.</p>
+               <p>
+                  <note place="margin">A plow<g ref="char:EOLhyphen"/>land in ſe<g ref="char:EOLhyphen"/>verall Pa<g ref="char:EOLhyphen"/>riſhes.</note> Every perſon that ſhall oc<g ref="char:EOLhyphen"/>cupie a plow-land in tillage or paſture lying in ſeverall pariſhes ſhall be chargeable to the making and mending of the High-wayes within the pariſh onely where he dwelleth.</p>
+               <p>
+                  <note place="margin">Severall plow-lands in ſeverall Pariſhes.</note> And every perſon occupy<g ref="char:EOLhyphen"/>ing ſeverall plow-lands in ſe<g ref="char:EOLhyphen"/>verall pariſhes ſhall be char<g ref="char:EOLhyphen"/>ged to find one cart, &amp;c. fur<g ref="char:EOLhyphen"/>niſhed in each town or pariſh where the ſaid plow-land doth lye.</p>
+               <p>
+                  <note place="margin">2. <hi>&amp;</hi> 3. <hi>Phil. &amp; Mar. cap.</hi> 8.18. <hi>Eliſ. cap.</hi> 10.</note>
+                  <note place="margin">Inſtru<g ref="char:EOLhyphen"/>ments to work.</note> Every perſon &amp; carriage a<g ref="char:EOLhyphen"/>boveſaid ſhall have and bring with the<g ref="char:cmbAbbrStroke">̄</g> ſuch ſhovels, ſpades, picks, mattocks, and other tools and inſtruments as are fit and neceſſarie for the ſaid work, and ſhall perform, do, and keep their work, as they
+<pb n="146" facs="tcp:102902:76"/>ſhall be appointed by the ſaid ſuperviſours,
+<note place="margin">What houres they ſhall vvork.</note> or one of them,
+<note place="margin">29. <hi>Eliſ. cap.</hi> 5.</note> eight houres of every of the ſaid ſix dayes, unleſſe they ſhall be otherwiſe licenced by the ſaid ſuperviſours or by one of them.</p>
+               <p>
+                  <note place="margin">Tvvo able men in ſtead of carriages.</note> If the carriages of the pa<g ref="char:EOLhyphen"/>riſh or any of them ſhall not be thought needfull by the ſuperviſours to be occupied upon any of the ſaid dayes, then every perſon that ſhould have ſent any ſuch carriage ſhall ſend to the ſaid work for every carriage ſo ſpared two able men to labour for that day, upon pain to looſe for e<g ref="char:EOLhyphen"/>very man not ſo ſent twelve pence.</p>
+               <p>Every ſuperviſour, &amp;c. for the amendment of the ſaid high-wayes according to the Statute within the pariſh where he is ſuperviſour may
+<note place="margin">5. <hi>Eliſ. cap.</hi> 13.</note>
+                  <pb n="147" facs="tcp:102902:76"/>take and carry away ſo much of the rubbiſh or ſmalleſt broken ſtones of any quarry lying within the pariſh,
+<note place="margin">Rubbiſh in quarries</note> where they ſhall be ſuperviſours, without licence or impeach<g ref="char:EOLhyphen"/>ment of the owner, as by their diſcretion ſhall be deemed neceſſary for the amendment of the ſaid wayes: And for default of ſuch quarry or rubbiſh, every ſuch ſupervi<g ref="char:EOLhyphen"/>ſour for the uſe aforeſaid, in the ſeverall grounds of any perſon within the pariſh and limits where they ſhall be ſuperviſours, &amp; nigh adjoyn<g ref="char:EOLhyphen"/>ing to the high-way to be re<g ref="char:EOLhyphen"/>paired, and wherein gravel, ſand or cinder, is likely to be found, may dig, or cauſe to be digged for gravel,
+<note place="margin">Dig gravel ſand or cinders. Gather ſtones.</note> ſand or cinder, and likewiſe to gather ſtones, lying in any ground or lands within the pariſh and
+<pb n="148" facs="tcp:102902:77"/>meet to be uſed to ſuch pur<g ref="char:EOLhyphen"/>poſe, and to take and carry away ſo much thereof as by the diſcretion of the ſupervi<g ref="char:EOLhyphen"/>ſours ſhall be thought neceſ<g ref="char:EOLhyphen"/>ſary to be imployed in the amendment of the ſaid wayes</p>
+               <p>
+                  <note place="margin">Not dig in quar<g ref="char:EOLhyphen"/>ries, &amp;c.</note> But it is not lawfull for them to cauſe any rubbiſh to be digged out of any quarry, but onely ſhall extend to ſuch rubbiſh as ſhall be found there ready digged, &amp;c.
+<note place="margin">5. <hi>Eliſ. cap.</hi> 13.</note> nor to dig or cauſe to be digged any gravel, ſand or cinder, in the houſe, garden, orchard, or meddow of any perſon;
+<note place="margin">May dig in ſeverall grounds.</note> nor above one only pit to be digged for gravel in any ſe<g ref="char:EOLhyphen"/>verall and incloſed ground, and the ſame not to be in breadth or length above ten yards over at the moſt.</p>
+               <p>And the ſuperviſors,
+<note place="margin">Fill up the pit.</note> which ſhall cauſe ſuch pit to be dig<g ref="char:EOLhyphen"/>ged
+<pb n="149" facs="tcp:102902:77"/>for gravel, ſand or cinder, ſhall within one moneth next after ſuch digging or pit made; cauſe the ſame to be filled and ſtopt up with earth, at the coſt and charges of the pariſhio<g ref="char:EOLhyphen"/>ners, upon pain to forfeit to the owner of the ſoil, wherein ſuch pit is made, 5 marks to be recovered by action of debt.</p>
+               <p>
+                  <note place="margin">5. <hi>Eliſ. cap.</hi> 13.</note>
+                  <note place="margin">Turn a water courſe.</note> It is lawfull for every ſuch ſuperviſor in the pariſh where he is ſuperviſour, to turn any water-courſe or ſpring of water, being in any high-way and offenſive to the ſame, into any ditch of the ſeverall ground or ſoil of any perſon next adjoyning to the ſaid wayes, in ſuch ma<g ref="char:cmbAbbrStroke">̄</g>ner as in the diſcretion of the ſaid ſupervi<g ref="char:EOLhyphen"/>ſours ſhall be thought meet.</p>
+               <p>The hayes,
+<note place="margin">18. <hi>Eliſ. cap.</hi> 10.</note> fences, ditches and hedges, next adjoyning on either ſide, to any high or
+<pb n="150" facs="tcp:102902:78"/>common-faring way, ſhall from time to time be diked, ſcoured,
+<note place="margin">Ditches to be ſcoured, and hedges and Trees kept low.</note> repaired and kept low,
+<note place="margin">18. <hi>Eliſ. cap.</hi> 10.</note> and all trees and buſhes growing in the high-wayes cut down by the owner of the ground or ſoil, which ſhall be incloſed with the ſaid hayes, fences, ditches or hedges, whereby the ſaid wayes may be open, and the people have more ready and eaſie paſſage in the ſame, upon pain to forfeit for every de<g ref="char:EOLhyphen"/>fault ten ſhillings.</p>
+               <p>
+                  <note place="margin">High<g ref="char:EOLhyphen"/>wayes inlarged.</note>
+                  <note place="margin">13. <hi>Ed. cap.</hi> 1.</note> And by the Statute of Wincheſter it was inacted, that the high-wayes leading from one market town to another be inlarged whereas buſhes, woods or ditches be, ſo that there be neither ditch, nor buſh, whereby a man may lurk to do hurt, within two hundred foot on each ſide of
+<pb n="151" facs="tcp:102902:78"/>the high-way. If by default of the Lord that will not avoid the ditch, underwood or buſhes in the manner a<g ref="char:EOLhyphen"/>foreſaid, any robbery be done therein, the Lord ſhall be an<g ref="char:EOLhyphen"/>ſwerable for the felony; and if murder be done, the Lord ſhall make a fine at the Kings pleaſure. If the Lord be not able to fell the underwoods the Countie ſhall aid him therein.</p>
+               <p>
+                  <note place="margin">15. <hi>Eliſ. cap.</hi> 10.</note>
+                  <note place="margin">Ditching and ſcour<g ref="char:EOLhyphen"/>ing.</note> Every perſon that ſhall oc<g ref="char:EOLhyphen"/>cupy any lands adjoyning to any ſuch high-way or com<g ref="char:EOLhyphen"/>mon faring-way, where any ditching or ſcouring ſhould or ought to be as aforeſaid, ſhall from time to time as need ſhall require ditch and ſcoure his ground ſo adjoyn<g ref="char:EOLhyphen"/>ing, whereby the water con<g ref="char:EOLhyphen"/>veyed from the ſaid high<g ref="char:EOLhyphen"/>wayes, and over the ground
+<pb n="152" facs="tcp:102902:79"/>next adjoyning may have paſſage over the ſaid ground ſo next adjoyning to that ground, upon pain of forfei<g ref="char:EOLhyphen"/>ture for every time ſo offend<g ref="char:EOLhyphen"/>ing, for every rod not ſo ditched and ſcoured, twelve pence.</p>
+               <p>
+                  <note place="margin">No ſoil to be caſt in the high<g ref="char:EOLhyphen"/>wayes.</note> No perſon having any ground by leaſe or otherwiſe adjoyning to any high-way leading to any market town, ſhall caſt or ſcour any ditch, and lay the ſoil thereof in the high-way, and ſuffer it to lie by the ſpace of ſix moneths to the annoyance of the ſaid high-way, upon pain to forfeit for every load of ſoil ſo caſt into the high-way twelve pence. And where any ſoil hath been caſt into the high<g ref="char:EOLhyphen"/>way, that there is a bank between the ſaid high-way and the ditch, the ſurveyers
+<pb n="153" facs="tcp:102902:79"/>and workmen may make ſluces or other devices,
+<note place="margin">18. <hi>Eliſ. cap.</hi> 10.</note> by their diſcretions, to convey the water out of the ſaid way into the ditch.</p>
+               <p>
+                  <note place="margin">5. <hi>Eliſ. cap.</hi> 13.</note>
+                  <note place="margin">Supervi<g ref="char:EOLhyphen"/>ſours to preſent.</note> Every ſurveyer as afore<g ref="char:EOLhyphen"/>ſaid for the time being, within one moneth next any default or offence commit<g ref="char:EOLhyphen"/>ted or done by any perſon contrary to the proviſion and true meaning of the Statutes, 2. <hi>&amp;</hi> 3. <hi>Ph. &amp; Mar. &amp;</hi> 5. <hi>Eliſ.</hi> ſhall preſent every ſuch default or offence to the next Juſtice of peace, upon pain to forfeit for every ſuch offence in ſuch ſort not by them preſented fourtie ſhillings.</p>
+               <p>
+                  <note place="margin">5. <hi>Eliſ. cap.</hi> 13.</note>
+                  <note place="margin">Juſtices to certifie.</note> And every Juſtice of peace not certifying ſuch default preſented unto him at the next generall Seſſions, &amp;c. ſhall forfeit five pound. And every Juſtice of peace upon
+<pb n="154" facs="tcp:102902:80"/>his own proper knowledge, in the open generall Seſſions,
+<note place="margin">Juſtices may pre<g ref="char:EOLhyphen"/>ſent.</note> may make preſentment of any high-way not well and ſufficiently repaired, or of any other default or offence com<g ref="char:EOLhyphen"/>mitted or done as aforeſaid, contrary to the intent of the Statute.</p>
+               <p>
+                  <note place="margin">Who may heare and determine.</note>
+                  <note place="margin">2. <hi>&amp;</hi> 3. <hi>Ph. &amp; Mar. cap.</hi> 8.</note> And the Juſtices of every Countie, where the ſaid de<g ref="char:EOLhyphen"/>faults or offences ſhall be committed, have authoritie to inquire thereof, within the limits of their commiſſion at every their ſaid quarter Seſſi<g ref="char:EOLhyphen"/>ons,
+<note place="margin">5. <hi>Eliſ. cap.</hi> 13.</note> and to aſſeſſe ſuch fines for the ſame, as they or two of them, whereof one to be of the quorum, ſhall think meet.</p>
+               <p>Juſtices of Aſſiſe,
+<note place="margin">Juſtices of Aſſiſe. Juſtices of peace.</note>
+                  <note place="margin">18. <hi>Eliſ. cap.</hi> 10.</note> and of oyer and terminer, Juſtices of peace in their Seſſions, and Stewards of Leets and Law<g ref="char:EOLhyphen"/>dayes,
+<pb n="155" facs="tcp:102902:80"/>in their Leets and Law-dayes, ſhall heare and determine all offences con<g ref="char:EOLhyphen"/>cerning this Statute.</p>
+               <p>Stewards of Leets, &amp;c.
+<note place="margin">Steward of Leets.</note> and in their default the Juſtices of peace of every place and countie, in their quarter Seſſi<g ref="char:EOLhyphen"/>ons may enquire againſt eve<g ref="char:EOLhyphen"/>ry point and article of this Statute, and may aſſeſſe ſuch reaſonable fines and amerce<g ref="char:EOLhyphen"/>ments for the ſame as ſhall be by them thought meet. And the ſaid Steward or Clerk of the peace reſpectively ſhall make eſtreats indented of all the fines and forfeitures, &amp;c.
+<note place="margin">Eſtreats of the fines.</note> and ſhall deliver one part thereof ſealed and ſigned to the Bayliff or High-conſtable of the hundred, &amp;c. within ſix weeks after Michael maſſe,
+<note place="margin">18. <hi>Eliſ. cap.</hi> 10.5. <hi>Eliſ.</hi> c. 13.</note> whereby they (or the Sur<g ref="char:EOLhyphen"/>veyers of the high-wayes,
+<pb n="156" facs="tcp:102902:81"/>they being directed to them) may levie the ſame by di<g ref="char:EOLhyphen"/>ſtreſſe and ſale, &amp;c. If no ſufficient diſtreſſe can be found, or if the ſaid offender ſhall obſtinately refuſe to pay the ſaid amercement,
+<note place="margin">Refuſing to pay.</note>
+                  <note place="margin">2. <hi>&amp;</hi> 3. <hi>Phil &amp; Mar. cap.</hi> 8. 5. <hi>Eliſ. cap.</hi> 13.</note> or do not pay the ſame within twentie dayes after a lawfull demand thereof by the ſaid officers, then that perſon to forfeit double the ſumme that he ſhould before have paid.</p>
+               <p>Every Bailiff,
+<note place="margin">Account and pay.</note> head-Con<g ref="char:EOLhyphen"/>ſtable, &amp;c. ſhall once every yeare, betwixt the firſt of March and the laſt of April, make a true account and pay<g ref="char:EOLhyphen"/>ment of all ſuch ſummes of money (to the Conſtables and Churchwardens of every pariſh wherein the offence was committed, or to two of them) as is collected upon
+<pb n="157" facs="tcp:102902:81"/>the ſaid eſtreats, upon pain to forfeit for every offence forty ſhillings.</p>
+               <p>The Churchwardens, &amp;c. may call the Bailiffs &amp; High-Conſtables to account be<g ref="char:EOLhyphen"/>fore the Juſtices of peace or two of them, who ſhall take the ſaid account, and may commit them to priſon with<g ref="char:EOLhyphen"/>out bail, untill they pay all ſuch arrerages as ſhall be ad<g ref="char:EOLhyphen"/>judged by the ſaid Juſtices. The ſaid Bailiffs and High-conſtables upon their ac<g ref="char:EOLhyphen"/>counts ſhall be allowed for every pound they ſhall col<g ref="char:EOLhyphen"/>lect and pay eight pence for their own pains.</p>
+               <p>The ſucceſſours of every Churchwarden ſhall have the like remedy againſt their ſuc<g ref="char:EOLhyphen"/>ceſſours, as is before appoint<g ref="char:EOLhyphen"/>ed againſt the Bailiffs, &amp;c.</p>
+               <p>All fines,
+<note place="margin">5. <hi>Eliſ. cap.</hi> 13.</note> amercements
+<pb n="158" facs="tcp:102902:82"/>and forfeitures,
+<note place="margin">Fines and forfeitures, how they ſhall be le<g ref="char:EOLhyphen"/>vied and beſtowed.</note> due for any offence againſt theſe Statutes ſhall be to the Churchward<g ref="char:EOLhyphen"/>ens of every pariſh, wherein the offences ſhall be commit<g ref="char:EOLhyphen"/>ted, to be beſtowed upon the high wayes in the ſaid pariſh.</p>
+               <p>
+                  <note place="margin">18. <hi>Eliſ. cap.</hi> 10.</note> All penalties or ſummes of money forfeited for any cauſe within this Statute, ſhall be levied in every pariſh by the ſurveyers of the wayes within that pariſh for the time being by diſtreſſe and ſale, in manner and form as fines or amercements in leets have been uſed. And the money ſo levied, to be imployed upon the high-wayes where the offence was committed; and if the ſur<g ref="char:EOLhyphen"/>veyers ſhall or will not levy and imploy the ſame within one yeare after the offence ſo committed, that then the
+<pb n="159" facs="tcp:102902:82"/>ſame ſummes or forfeitures ſhall be levyed in form a<g ref="char:EOLhyphen"/>foreſaid by the Conſtables, or Churchwardens of the town or pariſh where the of<g ref="char:EOLhyphen"/>fence was committed; and that he or they ſo levying any of the ſaid penalties or for<g ref="char:EOLhyphen"/>feitures ſhall make and yield ſuch account as is appointed in the before recited ſtatute.</p>
+               <p>
+                  <note place="margin">9. <hi>Hen.</hi> 3. <hi>c.</hi> 14.</note>
+                  <note place="margin">Who ſhall make and repair bridges.</note> No Town nor Free-man ſhall be conſtrained to make Bridges nor banks, but ſuch as of old time and of right have been accuſtomed to make them.</p>
+               <p>
+                  <note place="margin">22. <hi>Hen.</hi> 8. <hi>c.</hi> 5.</note> Foure Juſtices of peace may award proceſſe againſt them who ought to repair bridges.</p>
+               <p>Where it is not known who ought of right to repair a Bridge, foure Juſtices may tax the inhabitants of the Shire, Riding, City, or Town
+<pb n="160" facs="tcp:102902:83"/>corporate, as the caſe ſhall be, and may alſo make and appoint two Collectours of every Hundred, who may di<g ref="char:EOLhyphen"/>ſtrain for the money ſo tax<g ref="char:EOLhyphen"/>ed, and alſo may appoint two Surveyers, who ſhall ſee and direct the work, &amp;c.</p>
+               <p>Where any is chargeable by law to repair a Bridge,
+<note place="margin">
+                     <hi>Crompt. f.</hi> 186. <hi>b</hi>
+                  </note> he muſt alſo maintain the way at each end thereof by the ſpace of three hundred foot, though the ſoil belong to another.</p>
+               <p>If a man voluntarily ma<g ref="char:EOLhyphen"/>keth or mendeth a Bridge,
+<note place="margin">21. <hi>Ed.</hi> 4 46.</note> Cawſie or High-way, he is not compellable to do the ſame again, unleſſe he or his anceſtours have uſed ſo to do time out of mind.</p>
+               <p>If a man maketh a Bridge for eaſement to his mill, or the like, and it decayeth, he
+<pb n="161" facs="tcp:102902:83"/>nor any other are chargeable to repair this, for it is no com<g ref="char:EOLhyphen"/>mon paſſage.</p>
+               <q>Thus much concerning the Sta<g ref="char:EOLhyphen"/>tutes for High-wayes, <hi>&amp;c.</hi> here followeth a word or two in explanation of them for the help of thoſe that ſhall be choſen to this office.</q>
+               <p>
+                  <note place="margin">2. <hi>&amp;</hi> 3. <hi>Phil. &amp; Mar. cap.</hi> 8.</note>
+                  <note place="margin">Who ought to be cho<g ref="char:EOLhyphen"/>ſen ſurvey<g ref="char:EOLhyphen"/>ers.</note> Firſt therefore touching the election of theſe ſurvey<g ref="char:EOLhyphen"/>ers, &amp;c. where the Statute ap<g ref="char:EOLhyphen"/>pointeth to make choice of two honeſt perſons of the pa<g ref="char:EOLhyphen"/>riſh to be Surveyers, it im<g ref="char:EOLhyphen"/>plyeth alſo, that they be diſ<g ref="char:EOLhyphen"/>creet, and perſons of ſome a<g ref="char:EOLhyphen"/>bility of eſtate, and not of the meaner ſort of inhabitants (as the manner is) who neither dare command the ſervice to be done, nor preſent it being undone, ofttimes for fear of diſpleaſing thoſe they depend upon.</p>
+               <pb n="162" facs="tcp:102902:84"/>
+               <p n="2">2. <note place="margin">What waies ſhall be re<g ref="char:EOLhyphen"/>paired by the Statute.</note> The ſix dayes work in<g ref="char:EOLhyphen"/>joyned by this ſtatute are to be imployed upon the High-wayes in the pariſh, leading to ſome market town, which is <hi>via Regia,</hi> the Kings high-way, free for all men to paſſe with cart and carriage, and they nor any part of them are to be beſtowed in the mend<g ref="char:EOLhyphen"/>ing or repairing of any pri<g ref="char:EOLhyphen"/>vate way or other field-way, ſuch as is called <hi>Iter</hi> or <hi>Actus,</hi> unleſſe the ſaid High-wayes be otherwiſe well and ſuffici<g ref="char:EOLhyphen"/>ently repaired, and ſhall not need the ſaid whole ſix dayes.</p>
+               <p n="3">3. <note place="margin">The ſame dayes.</note> The Parochians muſt go and perform the ſervice the ſame ſix dayes that are appointed, and though they ſhall do full ſix dayes work at other times before Mid<g ref="char:EOLhyphen"/>ſummer, yet are they pre<g ref="char:EOLhyphen"/>ſentable
+<pb n="163" facs="tcp:102902:84"/>therefore, and ſhall be amerced.</p>
+               <p n="4">4. <note place="margin">Other dayes may be appoint<g ref="char:EOLhyphen"/>ed.</note> If the ſaid ſix dayes ſo appointed or any of them prove unſeaſonable for the ſervice, theſe officers may ap<g ref="char:EOLhyphen"/>point ſuch or ſo many other dayes as ſhall be behind; and all perſons are liable to do e<g ref="char:EOLhyphen"/>very thing as in the former ſix dayes; yea, by ſome opi<g ref="char:EOLhyphen"/>nions although Midſummer be paſt.</p>
+               <p n="5">5. If the ſaid ſix dayes be not ſufficient to make their ſaid wayes perfect, they ought to do more: for if the Townſhip be indicted for a<g ref="char:EOLhyphen"/>ny default in their ſaid wayes,
+<note place="margin">Every town muſt make their wayes paſſable and good.</note> it will be no ſufficient excuſe or plea for them to alledge they have fully performed their dayes-works appointed by the Statutes, but for thoſe dayes thus charged above the
+<pb n="164" facs="tcp:102902:85"/>ſtatute, no man ſhall be pu<g ref="char:EOLhyphen"/>niſhed thereby for his neg<g ref="char:EOLhyphen"/>lect, but the whole Town<g ref="char:EOLhyphen"/>ſhip or that perſon in whom the defect of the wayes is found, ſhall by the common law be indicted and fined.</p>
+               <p n="6">6. <note place="margin">Sufficient at all times.</note> Theſe Officers are not onely to ſee that theſe wayes be made good and ſufficient for the ſummer time, but that they be good and ſufficient alſo for the winter ſeaſon.</p>
+               <p n="7">7. <note place="margin">Where a townſhip is not able.</note> If a town or pariſh be not ſufficient to repair their high-waies, the neighbouring towns that have frequent uſe of the ſaid wayes ſhall aid and aſſiſt them with their helps; if they be inſufficient, then the whole Hundred or Countie ſhall help them, becauſe it is a publick good.</p>
+               <p n="8">8. If the Kings high-waies be not paſſable, whereby the
+<pb n="165" facs="tcp:102902:85"/>Kings ſubjects cannot with ſafety paſſe them,
+<note place="margin">Where wayes are impaſſable.</note> they may ride over mens corn to paſſe that way, and there lyeth no action of treſpaſſe againſt ſuch for ſo doing.</p>
+               <p n="9">9. <note place="margin">Money gi<g ref="char:EOLhyphen"/>ven to re<g ref="char:EOLhyphen"/>pair a way.</note> Where any ſumme or ſummes of money is or ſhall be given for the making, mending or repairing of any High-way, Cawſie, or the like, and it be inſufficient to do the ſame, that town with<g ref="char:EOLhyphen"/>in which the ſaid way doth lye ought to help to mend and repair the ſame.</p>
+               <p>Three ſorts of perſons are chargeable by law to repair High-wayes.</p>
+               <p n="1">1. <note place="margin">Who are charged to mend the wayes.</note> The inhabitants of towns in generall.</p>
+               <p n="2">2. Thoſe that by right or cuſtome have alwayes done them.</p>
+               <p n="3">3. Thoſe that by new in<g ref="char:EOLhyphen"/>cloſures
+<pb n="166" facs="tcp:102902:86"/>againſt the High-wayes ſtraighten and annoy the ſame.</p>
+               <p n="10">10. <note place="margin">Incloſures againſt the wayes.</note>
+                  <note place="margin">Dun<g ref="char:EOLhyphen"/>comb's caſe.</note> Every perſon which hath or ſhall make any in<g ref="char:EOLhyphen"/>cloſure next the Kings High-way adjoyning to his inclo<g ref="char:EOLhyphen"/>ſure, and if one man hath in<g ref="char:EOLhyphen"/>cloſed on the one ſide, and another on the other ſide, both of them ſhall be char<g ref="char:EOLhyphen"/>ged to mend the ſame way: and he that hath land adjoy<g ref="char:EOLhyphen"/>ning next the Kings High-way by the common law (before theſe ſtatutes) was bound of common right to cleanſe and ſcoure the ditches adjoyning to the ſaid way.</p>
+               <p n="11">11. <note place="margin">What a plow-land is.</note> The Statute declareth not what a plow-land con<g ref="char:EOLhyphen"/>taineth: ſome hold that a plow-land, <hi>Carucata terrae,</hi> or a hide of land, which is all one, contains 120. acres;
+<pb n="167" facs="tcp:102902:86"/>others ſay that a plow-land (meant by the ſtatute) is not of any certain content,
+<note place="margin">A carve of land, or a plow-land, may con<g ref="char:EOLhyphen"/>tain houſe, meadows, paſture, wood.</note> but ſo much as a plow by courſe of husbandry can plow in a yeare, which is much more in ſome Countreys then in o<g ref="char:EOLhyphen"/>ther, which occaſioneth ma<g ref="char:EOLhyphen"/>ny contentions and much prejudice to the ſervice in the repair of the high-wayes, by reaſon that ſince this ſta<g ref="char:EOLhyphen"/>tute moſt men ſtrive to get much more land into their hands then in former times,
+<note place="margin">
+                     <hi>Co. Lit. fol.</hi> 69.</note> and do mannage with one plow almoſt double that quantity of land they then held, and many plow lands are ſo broken and divided, that they are loſt, and yield no help to the maintenance of theſe wayes, beſides the dayly ingroſſing of farms w<hi rend="sup">ch</hi> decayeth the ſtrength of the
+<pb n="168" facs="tcp:102902:87"/>kingdome both in men and horſe, diminiſheth the Kings ſubſidies, the increaſe of corn and grain, hindereth hoſpita<g ref="char:EOLhyphen"/>lity, and the ſetting of poore men on work, oppreſſeth o<g ref="char:EOLhyphen"/>thers by the often revolution of offices, and laſtly the viſi<g ref="char:EOLhyphen"/>ble decay of the High-wayes in all places occaſioned by the leſſening the number of draughts and teams, there be<g ref="char:EOLhyphen"/>ing now ſcarce three parts of foure which were in former times; and therefore it were to be wiſhed that a certain proportionable quantity of land might by agreement be aſſigned in every town accor<g ref="char:EOLhyphen"/>ding to the temper and diſ<g ref="char:EOLhyphen"/>poſition of the ſoil, what number of acres ſhould be accounted a Plow-land, by which means many queſtions and controverſies dayly ari<g ref="char:EOLhyphen"/>ſing
+<pb n="169" facs="tcp:102902:87"/>may be appeaſed, the number of plow-lands in e<g ref="char:EOLhyphen"/>very Town encreaſed, and conſequently the high-waies in all places bettered and a<g ref="char:EOLhyphen"/>mended.</p>
+               <p n="12">12. <note place="margin">Who are charged.</note> He that occupieth a plow-land in paſture, &amp;c. and keepeth no cart or team, and he that keepeth a team or cart, and hath no land in occupation, are both of them charged by the Statute to provide one wain or cart fur<g ref="char:EOLhyphen"/>niſhed, &amp;c. and two able men with tools and inſtruments.</p>
+               <p n="13">13. <note place="margin">Carriages, Perſons, Inſtru<g ref="char:EOLhyphen"/>ments.</note> Theſe ſuperviſours are not onely to have reſpect to the number of the carriages and perſons, but to the qua<g ref="char:EOLhyphen"/>lity and condition of them, and that they be ſufficient and meet for the ſervice; for now he that hath foure or five horſes, and maketh of them
+<pb n="170" facs="tcp:102902:88"/>for his own occaſions but one teem or draught, for the ſer<g ref="char:EOLhyphen"/>vice of the high-wayes divi<g ref="char:EOLhyphen"/>deth them into two, whereby this ſervice is weakly perfor<g ref="char:EOLhyphen"/>med: but it is the duty of theſe officers to ſee that the King and the Countrey be no worſe ſerved then them<g ref="char:EOLhyphen"/>ſelves, and he that for his own private affairs doth uſu<g ref="char:EOLhyphen"/>ally, or for the moſt part of the year make two draughts, ſhall alſo for the King and his Countreys ſervice be char<g ref="char:EOLhyphen"/>ged with 2. carts or draughts, though he occupie his land ſometime with one plow. So are they to have regard to the perſons that are to work, both where, when, what, and how they ſhall work, and where and how they ſhall load and beſtow their mate<g ref="char:EOLhyphen"/>rials; and if any ſhall do o<g ref="char:EOLhyphen"/>therwiſe
+<pb n="171" facs="tcp:102902:88"/>then they ſhall be appointed by theſe officers, they are liable to be preſent<g ref="char:EOLhyphen"/>ed by them.</p>
+               <p>
+                  <note place="margin">Hired ſer<g ref="char:EOLhyphen"/>vant.</note> Where it ſaith that no hi<g ref="char:EOLhyphen"/>red ſervant by the yeare ſhall be charged to this ſervice, it is not intended that retainers to Noble men &amp; gentlemen, pariſh clerks, common town<g ref="char:EOLhyphen"/>ſervants, as Shepherds, Heardmen, Haywards, and the like, that are inhabitants and of able bodies ſhould hereby be diſcharged.</p>
+               <p n="15">15. <note place="margin">Sufficient labourer.</note> By this word Suffici<g ref="char:EOLhyphen"/>ent-labourer is meant, men of able bodies, &amp;c. not of wo<g ref="char:EOLhyphen"/>men and children, which are uſually imployed in this ſer<g ref="char:EOLhyphen"/>vice.</p>
+               <p n="16">16. Laſtly,
+<note place="margin">Preſent<g ref="char:EOLhyphen"/>ment.</note> whereas it is thought that if the Survey<g ref="char:EOLhyphen"/>ers ſhall not preſent the de<g ref="char:EOLhyphen"/>faults of the pariſhioners, till
+<pb n="172" facs="tcp:102902:89"/>after the moneth, though the Juſtices do certifie it at the next Seſſions, it is not good againſt the offender, yet if the Juſtice ſhall preſent the ſaid default by his own au<g ref="char:EOLhyphen"/>thority, the delinquent ſhall not eſcape unpuniſhed by the penalty of the Surveyer.</p>
+               <p>
+                  <note place="margin">Surveyer refuſe.</note> And if any choſen to be Surveyers ſhall refuſe or do not take upon him the execu<g ref="char:EOLhyphen"/>tion of the ſaid office, every Juſtice of peace may preſent it; but yet it is fit that ano<g ref="char:EOLhyphen"/>ther be choſen in his ſtead.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:102902:89"/>
+         </div>
+      </body>
+   </text>
+</TEI>
